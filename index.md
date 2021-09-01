@@ -4,7 +4,7 @@
 ----------------------------------------
 
 ### Shorter
-* [Markdown](Theo Hatzis, MSc.md)
+* [Markdown] (Theo Hatzis, MSc.md)
 * [PDF](docs\3a.pdf)
 
 ### Longer  
