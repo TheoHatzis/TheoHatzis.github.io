@@ -1,5 +1,3 @@
-
-<div style="background-color:blue;color:white;padding:2%;">
 # Theo Hatzis - Latest CV 
 
 ## Hardware design, Semiconductors Validation and Verification Test Engineer
