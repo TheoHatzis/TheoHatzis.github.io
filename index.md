@@ -1,6 +1,6 @@
 ## Latest CV 
 
-### Hardware design and development, Semiconductors Validation and Verification Test Engineer
+### Hardware design and development, Semiconductor devices Validation and Verification Test Engineer
 ----------------------------------------
 
 ### Shorter
