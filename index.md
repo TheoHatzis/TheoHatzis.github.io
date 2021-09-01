@@ -1,9 +1,5 @@
-
-
-<h1 style="background-color:DodgerBlue;">Theos&#39;s CV</h1>
-
-* [Link](docs\3a.pdf)
-* [link2](docs\3a.htm)
-* [link3](docs\3a.mht)
-* [link4](Theo Hatzis, MSc.md)    
+# Latest CV
+* Short [PDF](docs\3a.pdf)   [Markdown](Theo Hatzis, MSc.md)  
+* Longer [PDF](docs\2a.pdf)  [MSWORD] (docs/2a.docx)
+ 
       
