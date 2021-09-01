@@ -1,13 +1,19 @@
-# Theo CV
-_____________
+---
+
+---
+
+# Theo's CV
 
 
-  * link](docs\3a.pdf)
+  * [lnk](docs\3a.pdf)
   * [link2](docs\3a.htm)
   * [link3](docs\3a.mht)
-    
 
-  <address>Hello</address>
+<address>Hello</address>
+
+
+
+
 
 
 
