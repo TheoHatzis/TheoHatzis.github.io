@@ -7,7 +7,7 @@
 * [Markdown](Theo Hatzis, MSc.md)
 
 ### Longer  
-* Longer [PDF](docs\2a.pdf)  
+* [PDF](docs\2a.pdf)  
 * [MSWORD](docs/2a.docx)
  
       
