@@ -1,6 +1,7 @@
+<body style="background-color:#FFFFC6;">
+
 <h1 style="background-color:DodgerBlue;">Theos's CV</h1>
  
-  <body style="background-color:#FFFFC6;">
   * [lnk](docs\3a.pdf)
   
   * [link2](docs\3a.htm)
@@ -19,6 +20,9 @@
 
 
 
+<a href="./page1">Go to next page</a>
 
 
+counter-increment: direction: ;;direction: 
 
+;&mdash;
