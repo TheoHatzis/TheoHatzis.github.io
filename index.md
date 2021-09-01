@@ -1,6 +1,6 @@
-# Latest CV
+# Latest CV - Theo Hatzis
 
-## Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer
+## Hardware design, Semiconductors Validation and Verification Test Engineer
 
 ### Short 
 * [PDF](docs\3a.pdf)
