@@ -11,7 +11,7 @@ I'm available on a B2B basis or with contracting partner -- freelance activities
 
 # Project Interests
 
-This section illustrates ***things of interest based on recent experience and other experience ***
+This section illustrates ***things of interest based on recent experience and other experience***
 
 ## Validation/Verification
 *	Component verification, Validation * DCDC, MOSFET, Battery Switches, Radar, Automotive and other Sensors
