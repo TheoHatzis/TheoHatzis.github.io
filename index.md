@@ -5,7 +5,7 @@
 
 
 
-* [Markdown](docs\Theo Hatzis_MSc.md)
+* [Markdown](Theo Hatzis_MSc.md)
 
 ### Shorter
 
