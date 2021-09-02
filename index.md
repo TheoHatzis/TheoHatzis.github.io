@@ -1,15 +1,29 @@
-## My Latest CV 
+## Theo's Latest CV 
 
 ### Hardware design and development, Semiconductor devices Validation and Verification Test Engineer
 ----------------------------------------
 
-## Online 
+- Availability
 
-* [Markdown](docs/Theo Hatzis_MSc.md)
+  - from 01/09/2021
 
-## Downloads
+  - Freelance projects only - 
 
-* Shorter   [PDF](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_1e320985.pdf)
+    
 
-* Longer [PDF](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_313cc3ee.pdf) , [MSWORD]( docs/Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_313cc3ee.docx)
+- ## Interests
+
+  	* Hardware design and development and test
+  	* Battery test 
+  	* Semiconductor characterization, verification and validation
+  	* Automation  
+
+  
+
+
+## Online  CV
+
+* [Theo Hatzis MSc.md](docs/Theo Hatzis_MSc.md)  (Markdown)
+* [Short](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_3a.pdf) (PDF)
+* [Longer](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_2a.pdf) (PDF)
 
