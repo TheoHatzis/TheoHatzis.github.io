@@ -13,7 +13,7 @@ I'm available on a B2B basis or with contracting partner -- freelance activities
 
 This section illustrates ***things of interest based on recent experience and other experience ***
 
-## Validation/Verification***
+## Validation/Verification
 *	Component verification, Validation * DCDC, MOSFET, Battery Switches, Radar, Automotive and other Sensors
 *	Power Semiconductor Characterization, Verification, Validation and Temperature profiling
 *	Bench automation with Python, C# and Teststand
