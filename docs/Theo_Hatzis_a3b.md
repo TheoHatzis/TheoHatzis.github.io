@@ -1,21 +1,19 @@
-**Theo Hatzis, MSc**
-  Klopstockstr. 18 +49 15730889220 theohatzis@gmail.com
+**Theo Hatzis, MSc**                +49 15730889220 theohatzis@gmail.com
 # Summary
 Engineer 30y++ experience in hardware development with OrCAD, Protel (now Altium), Mentor Schematic capture etc., for micros applications and interfaces, and sensors. Recent projects include Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers and work on post silicon manual and automated testing on PMU, PMIC, DCDC, CPumps, Buck/Boost converters etc.
 
 Speciality work in semiconductors labs includes automation of highly repetitive measurements, temperature and characterisation, issues assessment and competitive analysis. Development of high-speed Forcing's circuits e.g. programmable trapezoid pulse and triangular loads in DCDC and LDO transient validation studies. Wide DCDC measurement measurements coverage, includes register I2C and Test-mode access via C-microcontroller and VISA. Experience of bench automation with Teststand and Adapters; Python, PyVISA, Python libraries includes Pandas, Numpy, Jinja2 and YAML. Use of Test API/SDK and Frame-works; and MSOffice automation via C#/.NET and Python. Other recent work includes development of high-current battery test-loads and other forcing circuits.
-
 I'm available directly with the client or with contracting partner &mdash; freelance activities only. My vat registration number is USt-IdNr: DE259921718. Language Spoken: English
 
 # Project Interests:
-## Validation/Verification ##
+## Validation/Verification
 * Component verification, Validation - DCDC, MOSFET, Battery Switches, Radar, Automotive and other Sensors
 * Power Semiconductor Characterization, Verification, Validation and Temperature profiling
 * Bench automation with Python, C# and Teststand
 * Battery performance testing. Power Consumptions
 * RF and PSU related measurements
 * Competitive analysis and issues related work
-## Hardware Design and Development ##
+## Hardware Design and Development
 * 8/16/32-bit microprocessor based applications and products
 * Component technology selection, PCB floorpanning, Design reviews, PCB layout reviews
 * Interface design, Analog/digital data converters, Operational amplifier circuits. High speed circuits
@@ -44,3 +42,5 @@ I'm available directly with the client or with contracting partner &mdash; freel
 ## Semiconductors
 * PMIC Chipsets and DCDC validation
 * 3G and LTE Modem platforms verification. RF and PA with PSU measurements
+
+<h1>Hello World!</h1>
