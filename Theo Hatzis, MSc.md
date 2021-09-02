@@ -9,7 +9,7 @@ Speciality work in semiconductors labs includes automation of highly repetitive 
 
 I'm available on a B2B basis or with contracting partner -- freelance activities only. My vat registration number is USt-IdNr: DE259921718. Language Spoken: English
 
-# Project Interests:
+# Project Interests
 
 This section illustrates ***things of interest based on recent experience and other experience ***
 
@@ -52,5 +52,6 @@ This section illustrates ***things of interest based on recent experience and ot
 
 ## Semiconductors
 *	PMIC Chipsets and DCDC validation
-*	3G and LTE Modem platforms verification
+*	3G and LTE Modem platforms verification. RF and related PSU measurements.
+
 
