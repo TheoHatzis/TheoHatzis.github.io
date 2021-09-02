@@ -30,6 +30,7 @@ This section illustrates ***things of interest based on recent experience and ot
 *	Hardware development to requirements specifciations. Design to conformance and safety standards. Approvals and acceptance
 
 # Experience Areas
+
 ## Hardware development
 *	8/16/32 bit micros application boards
 *	Electronics Schematics design with OrCAD, Protel (or Altium), Mentor Graphics Expedition
@@ -40,11 +41,14 @@ This section illustrates ***things of interest based on recent experience and ot
 *	Battery Chargers
 *	Design to requirements, Documentation, Test house liasion for CE, EMC and Acceptance
 *	Medical and IT equipment approvals, saftey, UL, TUV, VDE, EMC, CE and Environmental performance
+
 ## RF
 *	Antenna matching, tuning, Spurs
 *	Some RF based measurements, Antenna matching and performance
+
 ## Sensors
 *	Radar Sensors, Magnetometers, Inductive loops, Gas sensors
+
 ## Software and Tools
 *	Python (10y), C# (10y), Teststand, LabVIEW and MATLAB/SCILAB (2y)
 *	Some lightweight software development, e.g. Jenkins,
