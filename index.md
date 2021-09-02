@@ -12,6 +12,6 @@
 * [PDF](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_1e320985.pdf)
 
 ### Longer  
-* [PDF](docs\2a.pdf)  
-* [MSWORD](docs/2a.docx)
+* [PDF](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_313cc3ee.pdf)  
+* [MSWORD](docs/Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_313cc3ee.docx)
 
