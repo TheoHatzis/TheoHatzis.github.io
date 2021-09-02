@@ -10,6 +10,7 @@ Speciality work in semiconductors labs includes automation of highly repetitive 
 I'm available on a B2B basis or with contracting partner -- freelance activities only. My vat registration number is USt-IdNr: DE259921718. Language Spoken: English
 
 # Project Interests:
+This sections illustrates things of interest based on recent experience and other experience 
 ## Validation/Verification
 *	Component verification, Validation * DCDC, MOSFET, Battery Switches, Radar, Automotive and other Sensors
 *	Power Semiconductor Characterization, Verification, Validation and Temperature profiling
