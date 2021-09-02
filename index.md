@@ -3,7 +3,7 @@
 ### Hardware design and development, Semiconductor devices Validation and Verification Test Engineer
 ----------------------------------------
 
-* [Markdown](Theo Hatzis, MSc.md)
+* [Markdown](Theo Hatzis_MSc.md)
 
 ### Shorter
 

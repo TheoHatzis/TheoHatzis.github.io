@@ -11,7 +11,7 @@ I'm available on a B2B basis or with contracting partner -- freelance activities
 
 # Project Interests
 
-This section illustrates ***things of interest based on recent experience and other experience***
+This section illustrates ***things of interest based on recent experience and other past experience***
 
 ## Validation/Verification
 *	Component verification, Validation * DCDC, MOSFET, Battery Switches, Radar, Automotive and other Sensors
@@ -26,7 +26,8 @@ This section illustrates ***things of interest based on recent experience and ot
 *	Interface design, Analog/digital data converters, Operational amplifier circuits. High speed circuits
 *	Analogue design simulation with Spice
 *	Battery power circuits, Switching, Power distribution and OR-ing circuits. Charging circuits
-*	Transportation communications signalling infrastructure equipment, Communications controllers, Transponders Galvanic/opto RS485 circuits, Interface Units, V26, V29 modem data and other line interfaces on 5km copper circuits
+*	Transportation communications signalling infrastructure equipment, Communications controllers, Transponders Galvanic/opto RS485 circuits, Interface Units, V26, V29 modem data and other line interfaces on copper infrastructure
+*	Hardware development to requirements specifciations. Design to conformance and safety standards. Approvals and acceptance
 
 # Experience Areas
 ## Hardware development
@@ -53,5 +54,4 @@ This section illustrates ***things of interest based on recent experience and ot
 ## Semiconductors
 *	PMIC Chipsets and DCDC validation
 *	3G and LTE Modem platforms verification. RF and related PSU measurements.
-
 
