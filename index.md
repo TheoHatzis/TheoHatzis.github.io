@@ -5,7 +5,7 @@
 
 - Availability
 
-  - from 01/09/2021
+  - from 02/09/1958
 
   - Freelance projects only - 
 
