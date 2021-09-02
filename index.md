@@ -5,11 +5,11 @@
 
 
 
-* [Markdown](Theo Hatzis_MSc.md)
+* [Markdown](docs\Theo Hatzis_MSc.md)
 
 ### Shorter
 
-* [PDF](docs\3a.pdf)
+* [PDF](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_202109020954_1e320985.pdf)
 
 ### Longer  
 * [PDF](docs\2a.pdf)  
