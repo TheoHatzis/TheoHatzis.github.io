@@ -9,22 +9,22 @@
 
   - Freelance projects, for services &mdash; USt-IdNr: DE259921718.  
 
+## Interests
 
-- ## Interests
+* Hardware design and development and test
 
-  	* Hardware design and development and test
-  	* Battery test 
-  	* Semiconductor characterization, verification and validation
-  	* Automation  
+* Battery test 
 
-  
+* Semiconductor characterization, verification and validation
+
+* Automation
 
 
 ## online  CV
 
-* [[Theo Hatzis MSc.md](docs/Theo_Hatzis_a3b.md)  (Markdown/html)
+* [[Theo Hatzis MSc.md](docs/Theo_Hatzis_3.md)  (Markdown/html)
 
 ## downloadables
-* [Short](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_3b.pdf) (PDF)
-* [Longer](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_2a.pdf) (PDF)
+* [Short](docs\Theo_Hatzis_3.pdf) (PDF)
+* [Longer](docs\Theo_Hatzis_2.pdf) (PDF)
 
