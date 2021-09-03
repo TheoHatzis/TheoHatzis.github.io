@@ -24,6 +24,7 @@
 ## Online  CV
 
 * [Theo Hatzis MSc.md](docs/Theo Hatzis_MSc.md)  (Markdown)
+* [Theo Hatzis MSc.md](docs/Theo_Hatzis_a3b.md)  (Markdown)
 * [Short](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_3a.pdf) (PDF)
 * [Longer](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_2a.pdf) (PDF)
 
