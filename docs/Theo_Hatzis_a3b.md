@@ -7,6 +7,8 @@ Engineer 30y++ experience in hardware development with OrCAD, Protel (now Altium
 
 
 Speciality work in semiconductors labs includes automation of highly repetitive measurements, temperature and characterisation, issues assessment and competitive analysis. Development of high-speed Forcing's circuits e.g. programmable trapezoid pulse and triangular loads in DCDC and LDO transient validation studies. Wide DCDC measurement measurements coverage, includes register I2C and Test-mode access via C-microcontroller and VISA. Experience of bench automation with Teststand and Adapters; Python, PyVISA, Python libraries includes Pandas, Numpy, Jinja2 and YAML. Use of Test API/SDK and Frame-works; and MSOffice automation via C#/.NET and Python. Other recent work includes development of high-current battery test-loads and other forcing circuits.
+
+
 I'm available directly with the client or with contracting partner &mdash; freelance activities only. My vat registration number is USt-IdNr: DE259921718. Language Spoken: English
 
 
@@ -25,6 +27,7 @@ I'm available directly with the client or with contracting partner &mdash; freel
 * RF and PSU related measurements
 
 * Competitive analysis and issues related work
+
 ## Hardware Design and Development
 
 * 8/16/32-bit microprocessor based applications and products
@@ -43,21 +46,20 @@ I'm available directly with the client or with contracting partner &mdash; freel
 
 # Experience Areas:
 
+
 ## Hardware development
 
-* 8/16/32 bit micros application boards
+* 8/16/32 bit micros application boards, releated digital design, Analogue (ADC, DAC, S/H, OP-AMP)
 
 * Electronics Schematics design with OrCAD, Protel (or Altium), Mentor Graphics Expedition
 
-* PLD Logic, Analogue and Digital design
+* Battery Chargers, Board power distribution
 
-* Microprocessor boards and interfaces in Medical products, data communications and Scientific Instruments
+* Microprocessor boards and specialised interfaces in Medical products, data communications and Scientific Instruments
 
 * RS485, V26, V29 and PCM Data Tributaries signalling circuits, Lightning protection, RS485 galvanic/opto islations
 
 * Industrial ruggidized computer tablets development, and approval for CE, EMI, SAR and Network performance
-
-* Battery Chargers
 
 * Design to requirements, Documentation, Test house liasion for CE, EMC and Acceptance
 
