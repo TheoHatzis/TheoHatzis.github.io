@@ -1,4 +1,5 @@
 **Theo Hatzis, MSc**                +49 15730889220 theohatzis@gmail.com
+
 # Summary
 
 Engineer 30y++ experience in hardware development with OrCAD, Protel (now Altium), Mentor Schematic capture etc., for micros applications and interfaces, and sensors. Recent projects include Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers and work on post silicon manual and automated testing on PMU, PMIC, DCDC, CPumps, Buck/Boost converters etc.
