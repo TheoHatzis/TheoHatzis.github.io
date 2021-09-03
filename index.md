@@ -7,9 +7,8 @@
 
   - from 02/09/2021
 
-  - Freelance projects only - 
+  - Freelance projects, for services &mdash; USt-IdNr: DE259921718.  
 
-    
 
 - ## Interests
 
@@ -21,17 +20,11 @@
   
 
 
-## Online  CV
+## online  CV
 
-* [Theo Hatzis MSc.md](docs/Theo Hatzis_MSc.md)  (Markdown)
-* [Theo Hatzis MSc.md](docs/Theo_Hatzis_a3b.md)  (Markdown)
+* [[Theo Hatzis MSc.md](docs/Theo_Hatzis_a3b.md)  (Markdown/html)
+
+## downloadables
 * [Short](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_3a.pdf) (PDF)
 * [Longer](docs\Theo_Hatzis, MSc_Hardware design, Semiconductors Validation and Verification Test Engineer_2a.pdf) (PDF)
 
-
-
-
-
-## WIP 
-
-[link](docs\Theo_Hatzis_a3b.md)
