@@ -1,4 +1,5 @@
-** Theo Hatzis, MSc**+49 15730889220 theohatzis@gmail.com **
+** Theo Hatzis, MSc **
+       +49 15730889220 theohatzis@gmail.com
 
 # Summary
 
