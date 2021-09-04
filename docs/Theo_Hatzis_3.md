@@ -1,5 +1,4 @@
-
-**Theo Hatzis, MSc**+49 15730889220 theohatzis@gmail.com
+** Theo Hatzis, MSc**+49 15730889220 theohatzis@gmail.com **
 
 # Summary
 
@@ -84,5 +83,3 @@ I'm available directly with the client or with contracting partner &mdash; freel
 * PMIC Chipsets and DCDC validation
 
 * 3G and LTE Modem platforms verification. RF and PA with PSU measurements
-
-
