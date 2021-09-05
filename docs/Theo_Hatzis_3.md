@@ -1,5 +1,5 @@
-**Theo Hatzis, MSc**
-       +49 15730889220,  theohatzis@gmail.com
+
+**Theo Hatzis, MSc**+49 15730889220 theohatzis@gmail.com
 
 # Summary
 
@@ -14,7 +14,6 @@ I'm available directly with the client or with contracting partner &mdash; freel
 
 # Project Interests:
 
-
 ## Validation/Verification
 
 * Component verification, Validation - DCDC, MOSFET, Battery Switches, Radar, Automotive and other Sensors
@@ -28,7 +27,6 @@ I'm available directly with the client or with contracting partner &mdash; freel
 * RF and PSU related measurements
 
 * Competitive analysis and issues related work
-
 
 ## Hardware Design and Development
 
@@ -67,11 +65,9 @@ I'm available directly with the client or with contracting partner &mdash; freel
 
 * Medical and IT equipment approvals, saftey, UL, TUV, VDE, EMC, CE and Environmental performance
 
-
 ## Sensors
 
 * Radar Sensors, Magnetometers, Inductive loops, Gas sensors
-
 
 ## Software and Tools
 
@@ -83,9 +79,10 @@ I'm available directly with the client or with contracting partner &mdash; freel
 
 * VHDL design on mainly low-end logic circuits, such as PLD, EPLD and CPLD and small FPGA
 
-
 ## Semiconductors
 
 * PMIC Chipsets and DCDC validation
 
-* 3G and LTE Modem platforms verification. RF measurements related to the PA, Transciever and PMU
+* 3G and LTE Modem platforms verification. RF and PA with PSU measurements
+
+
