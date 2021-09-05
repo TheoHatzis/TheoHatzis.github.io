@@ -19,7 +19,7 @@
 
 ## Online  CV
 
-* [Theo Hatzis MSc.md](docs/Theo_Hatzis_3.md) (html)
+* [Theo Hatzis MSc](docs/Theo_Hatzis_3.html) (html)
 
 ## CV Downloads
 
