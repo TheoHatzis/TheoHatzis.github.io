@@ -1,7 +1,7 @@
 # Theo Hatzis 
 
 * email: theohatzis@gmail.com		Mob: +49 16730889220
- 
+
 
 ### Hardware design/development, Semiconductor Validation, Verification & Test Automation
 ----------------------------------------
@@ -30,8 +30,8 @@
 
 * [Theo Hatzis MSc](docs/Theo_Hatzis_3.html) (html)
 
-## CV Downloads
+## CV Download
 
-* [Short](docs\Theo_Hatzis_3.pdf) (PDF)
-* [Longer](docs\Theo_Hatzis_2.pdf) (PDF)
+* [Longer](docs\Theo_Hatzis_2.pdf) (PDF) 
+* [Short](docs\Theo_Hatzis_3.pdf) (PDF) 
 
