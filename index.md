@@ -4,7 +4,7 @@
 
 ----------------------------------------
 
-- Availability from 02/09/2021
+- Availability Q3/2021
 - Freelance projects. USt-IdNr: DE259921718
 
 ## Interests
