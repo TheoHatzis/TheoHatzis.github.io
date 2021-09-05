@@ -1,11 +1,20 @@
-## Theo's Latest CV 
+# Theo Hatzis 
+
+* email: theohatzis@gmail.com		Mob: +49 16730889220
+ 
 
 ### Hardware design/development, Semiconductor Validation, Verification & Test Automation
-
 ----------------------------------------
+* Electronics design/development (30y++), Semiconductor Validation/Verification (15y)
+* Availability Q3/2021 on a freelance basis 
+* VAT/USt-IdNr: DE259921718
 
-- Availability Q3/2021
-- Freelance projects. USt-IdNr: DE259921718
+## Experience Domains
+* 2G - 4G Modems verification. RF measurements 
+* Semiconductor post silicon bench, PMU, PMICS and DCDC. 
+* Bench Automation with Python, C# and Teststand 
+* Hardware design and development on Medical, Scientific, Transportation Systems (Highways) and Wireless Terminals
+* Design to requirements, design for conformance, saftey, emissions, and environmental performance 
 
 ## Interests
 
