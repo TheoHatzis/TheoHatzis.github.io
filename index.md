@@ -1,29 +1,27 @@
 ## Theo's Latest CV 
 
-### Hardware design and development, Semiconductor devices Validation and Verification Test Engineer
+### Hardware design/development, Semiconductor Validation, Verification & Test Automation
 
 ----------------------------------------
 
 - Availability from 02/09/2021
-- Freelance projects
-- USt-IdNr: DE259921718
+- Freelance projects. USt-IdNr: DE259921718
 
 ## Interests
 
-* Hardware design and development and test
-* Battery test systems 
+* Hardware design and development and Test
 * Semiconductor power devices (PMU/PMIC/DCDC) 
-* characterization, verification and validation
-* Automation measurements
-* Sensors, interfacing and testing  
-* Python and C# with Teststand in automation 
+* Characterization, verification and validation
+* Automation measurements in Python, C# and Teststand
+* Sensors and data and Interfaces. Testing  
+* Battery test systems 
 
 
 ## Online  CV
 
 * [Theo Hatzis MSc.md](docs/Theo_Hatzis_3.md) (html)
 
-## Downloads
+## CV Downloads
 
 * [Short](docs\Theo_Hatzis_3.pdf) (PDF)
 * [Longer](docs\Theo_Hatzis_2.pdf) (PDF)
