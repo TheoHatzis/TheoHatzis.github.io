@@ -14,7 +14,7 @@
 * Semiconductor post silicon bench, PMU, PMICS and DCDC. 
 * Bench Automation with Python, C# and Teststand 
 * Hardware design and development on Medical, Scientific, Transportation Systems (Highways) and Wireless Terminals
-* Design to requirements, design for conformance, saftey, emissions, and environmental performance 
+* Design to requirements, design for conformance, safety, emissions, and environmental performance 
 
 ## Interests
 
