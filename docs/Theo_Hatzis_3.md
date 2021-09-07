@@ -5,13 +5,13 @@
 
 # Summary
 
-Engineer 30y++ experience in hardware development with OrCAD, Protel (now Altium), Mentor Schematic capture etc., for micros applications and interfaces, and sensors. Recent projects include Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers and work on post silicon manual and automated testing on PMU, PMIC, DCDC, CPumps, Buck/Boost converters etc.
+Engineer with 30y++ experience in hardware development with OrCAD, Protel (now Altium), Mentor Schematic capture etc., for micros applications, interfaces and sensors. Recent projects include Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers and work on post-silicon manual and automated testing on PMU, PMIC, DCDC, CPumps and Buck/Boost devices etc.
 
 
-Speciality work in semiconductors labs includes automation of highly repetitive measurements, temperature and characterisation, issues assessment and competitive analysis. Development of high-speed Forcing's circuits e.g. programmable trapezoid pulse and triangular loads in DCDC and LDO transient validation studies. Wide DCDC measurement measurements coverage, includes register I2C and Test-mode access via C-microcontroller and VISA. Experience of bench automation with Teststand and Adapters; Python, PyVISA, Python libraries includes Pandas, Numpy, Jinja2 and YAML. Use of Test API/SDK and Frame-works; and MSOffice automation via C#/.NET and Python. Other recent work includes development of high-current battery test-loads and other forcing circuits.
+Speciality work in semiconductors labs includes automation of highly repetitive measurements, temperature and characterisation, issues assessment and competitive analysis, development of high-speed forcing conditioning circuits and related jigs, e.g. programmable trapezoid pulse and triangular loads in DCDC and LDO transient validation studies. Comprehensive DCDC measurement measurements expertise includes register I2C and Test-mode access via C-microcontroller and standard VISA. Experience in bench automation with Teststand and Adapters; Python, PyVISA, Python libraries includes Pandas, Numpy, Jinja2 and YAML. Use of Test API/SDK and Frame-works; and MSOffice automation via C#/.NET and Python. Other recent work includes the hardware development on high-current battery test-loads and other forcing circuits on a project for a new product.
 
 
-I'm available directly with the client or with contracting partner &mdash; freelance activities only. My vat registration number is USt-IdNr: DE259921718. Language Spoken: English
+I'm available for direct hire with the client or with a contracting partner &mdash; usual freelance activities only. My vat registration number USt-IdNr: DE259921718. Language Spoken: English.
 
 
 # Project Interests:
