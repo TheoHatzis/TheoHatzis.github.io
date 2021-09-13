@@ -17,7 +17,7 @@
 
 ## Interests
 
-* Hardware design and development and Test
+Line* Hardware design and development and Test
 * Semiconductor power devices (PMU/PMIC/DCDC) 
 * Characterization, verification and validation
 * Automation measurements in Python, C# and Teststand
@@ -31,6 +31,6 @@
 
 ## CV Download
 
+* [Short, as online](docs\Theo_Hatzis_3b.pdf) (PDF) 
 * [Longer](docs\Theo_Hatzis_2.pdf) (PDF) 
-* [Short](docs\Theo_Hatzis_3b.pdf) (PDF) 
 
