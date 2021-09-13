@@ -29,7 +29,7 @@ Line* Hardware design and development and Test
 
 * [Theo Hatzis MSc](docs/Theo_Hatzis_3b.html) (html)
 
-## CV Download
+## CV Downloads
 
 * [Short, as online](docs\Theo_Hatzis_3b.pdf) (PDF) 
 * [Longer](docs\Theo_Hatzis_2.pdf) (PDF) 

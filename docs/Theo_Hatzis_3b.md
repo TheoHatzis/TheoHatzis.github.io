@@ -7,7 +7,7 @@
 # Summary
 
 Summary
-Engineer with 30y++ experience in hardware development with OrCAD, Protel (aka Altium), Mentor Schematic capture etc., on microprocessor based applications, interfaces and sensors for medical, scientific, wireless terminals, traffic surveying equipment. In mid-career, developed the communications "outstations" equipment racks of the MIDAS subsystem that was first deployed on the UK's M25 Controlled-Motorways pilot project automatic incidents detection and variable speed signalling systems.
+Summary Engineer with 30y++ experience in hardware development with OrCAD, Protel (aka Altium), Mentor Schematic capture etc., on microprocessor based applications, interfaces and sensors for medical, scientific, wireless terminals, traffic surveying equipment. In mid-career, developed the communications "outstations" equipment racks on the MIDAS subsystem that was first deployed on the UK's M25 Controlled-Motorways pilot project automatic incidents detection and variable speed limits signalling systems.
 
 Recent freelance projects include the schematic design on 3G/4G early access devices, Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers, and post-silicon automation and manual testing on PMU, PMIC, DCDC, Charge Pumps and Buck/Boost devices, with automation in Python, C#, Teststand and LabVIEW.
 # Project Interests:
@@ -105,11 +105,11 @@ Recent freelance projects include the schematic design on 3G/4G early access dev
     * Device Characterization and Bench validation of DCDC Buck, Buck-boost and Charge pump devices
 
 
-* Senior Baseband Engineer-Digital, Intel Mobile Communications GmbH, February 2011 - January 2014 [ERL]
+* Senior Baseband Designer (Digital), Intel Mobile Communications GmbH, February 2011 - January 2014 [ERL]
     * Intel XMM series XGOLD 2-4G modem reference designs verification
 
 
-* Senior Baseband Engineer-Digital, Infineon Comneon GmbH, August 2010 - February 2011 [ERL]
+* Senior Baseband Designer (Digital), Infineon Comneon GmbH, August 2010 - February 2011 [ERL]
     * Infineon XMM series XGOLD 2-4G modem reference designs verification
 
 
