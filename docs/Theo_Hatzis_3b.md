@@ -89,6 +89,10 @@ Recent freelance projects include the schematic design on 3G/4G early access dev
 
 # Projects
 
+* Component Verification Engineer, Infineon Technologies AG, Oct 2021 - Present [Hays]
+    * Component verification on automotive devices
+
+
 * Test and Verification Engineer for Radar Applications, Infineon Technologies AG, Oct 2020 - Mar 2021 [Hays]
     * Software development, 60GHz Radar Sensors SDK and GUI tests
 

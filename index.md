@@ -5,7 +5,7 @@
 ### Hardware design/development, Semiconductor Validation, Verification & Test Automation 
 ----------------------------------------
 * Electronics design/development (30y++), Semiconductor Validation/Verification (15y)
-* Availability Q3/2021 on a freelance basis 
+* Availability - currently unavailable 
 * VAT/USt-IdNr: DE259921718
 
 ## Experience Domains
