@@ -7,7 +7,7 @@
 # Summary
 
 Summary
-Engineer with 30y++ experience in hardware development with OrCAD, Protel (aka Altium), Mentor Schematic capture etc., on microprocessor based applications, interfaces and sensors for medical, scientific, wireless terminals, traffic surveying equipment. Developed the communications "outstations" equipment racks on the MIDAS subsystem deployed on the UK's M25 Controlled-Motorways pilot project automated incidence detection and variable speed messaging systems.
+Engineer with 30y++ experience in hardware development with OrCAD, Protel (aka Altium), Mentor Schematic capture etc., on microprocessor based applications, interfaces and sensors for medical, scientific, wireless terminals, traffic surveying equipment. In mid-career, developed the communications "outstations" equipment racks of the MIDAS subsystem that was first deployed on the UK's M25 Controlled-Motorways pilot project automated incidence detection and variable speed signalling systems.
 
 Recent freelance projects include schematic design on 3G/4G early access devices, Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers, and post-silicon automation and manual testing on PMU, PMIC, DCDC, Charge Pumps and Buck/Boost devices, with automation in Python, C#, Teststand and LabVIEW.
 # Project Interests:
