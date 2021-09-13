@@ -97,7 +97,7 @@ Recent freelance projects include the schematic design on 3G/4G early access dev
     * Software development, 60GHz Radar Sensors SDK and GUI tests
 
 
-* Validation Expert, Texas Instruments GmbH, June 2018 - June 2020 [Hays]
+* Validation Expert, Texas Instruments GmbH, July 2018 - June 2020 [Hays]
     * Device characterization and Bench validation of DCDC converters
 
 
