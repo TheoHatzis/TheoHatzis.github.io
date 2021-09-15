@@ -3,11 +3,10 @@
 # Theo Hatzis, MSc
 ### theohatzis@gmail.com    +49 15730889220
 
-
 # Summary
 
 Summary
-Summary Engineer with 30y++ experience in hardware development with OrCAD, Protel (aka Altium), Mentor Schematic capture etc., on microprocessor based applications, interfaces and sensors for medical, scientific, wireless terminals, traffic surveying equipment. In mid-career, developed the communications "outstations" equipment racks on the MIDAS subsystem that was first deployed on the UK's M25 Controlled-Motorways pilot project automatic incidents detection and variable speed limits signalling systems.
+Engineer with 30y++ experience in hardware development with OrCAD, Protel (aka Altium), Mentor Schematic capture, on microprocessor based applications, interfaces and sensors for medical, scientific, wireless terminals and traffic surveying equipment (bicycles detection, weigh-in-motion, inductance loops and magnetometer arrays). In mid-career, developed the communications "outstations" equipment of the MIDAS subsystem deployed on the UK's M25 Controlled-Motorways pilot project automatic incidents detection and variable speed limit signalling systems.
 
 Recent freelance projects include the schematic design on 3G/4G early access devices, Validation and Design Verification on 3G and LTE Modems, PMU, PA, RF Transceivers, and post-silicon automation and manual testing on PMU, PMIC, DCDC, Charge Pumps and Buck/Boost devices, with automation in Python, C#, Teststand and LabVIEW.
 # Project Interests:
