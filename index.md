@@ -17,7 +17,8 @@
 
 ## Interests
 
-Line* Hardware design and development and Test
+* Hardware design and development and Test
+
 * Semiconductor power devices (PMU/PMIC/DCDC) 
 * Characterization, verification and validation
 * Automation measurements in Python, C# and Teststand
