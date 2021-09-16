@@ -8,7 +8,6 @@
 ----------------------------------------
 * Electronics design/development (30y++), Semiconductor Validation/Verification (15y)
 * Availability - currently unavailable 
-* VAT/USt-IdNr: DE259921718
 
 ## Experience Domains
 * 2G - 4G Modems verification. RF measurements 
