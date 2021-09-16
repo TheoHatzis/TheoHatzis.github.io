@@ -1,7 +1,7 @@
 
 
 # Theo Hatzis, MSc
-### theohatzis@gmail.com    +49 15730889220
+theohatzis@gmail.com    +49 15730889220
 
 # Summary
 
@@ -122,5 +122,4 @@ Recent freelance projects include the schematic design on 3G/4G early access dev
 
 * Baseband Engineer, Texas Instruments A/S, Oct 2004 - Dec 2005 [WAC]
     * 3G Mobile platforms designs verification. Validation test documentation and templates
-
 

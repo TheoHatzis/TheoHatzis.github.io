@@ -2,7 +2,6 @@
 
 * email: theohatzis@gmail.com		Mob: +49 16730889220  
 
-  
 
 ### Hardware design/development, Semiconductor Validation, Verification & Test Automation 
 ----------------------------------------
