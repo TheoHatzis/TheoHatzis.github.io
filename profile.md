@@ -5,6 +5,8 @@
 
 ### Hardware design/development, Semiconductor Validation, Verification & Test Automation 
 ----------------------------------------
+
+
 * Electronics design/development (30y++), Semiconductor Validation/Verification (15y)
 * Availability - currently unavailable 
 

@@ -1,6 +1,6 @@
 # Resources
 
-- [Online and Offline CV](profile.md)
+- [Online and Offline CV](profile.html)
 
 
 * Products
@@ -14,3 +14,4 @@
   
 
   
+
