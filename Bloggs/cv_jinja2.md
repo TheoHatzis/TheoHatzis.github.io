@@ -1,34 +1,20 @@
 # Profile in YAML 
 
+The following snippet 
 
-
-
-
-```python
-context = {}
-cfgs = {}
 ```
+def do_all(yam_path, pth_template, outfile):
+    context = {}
+    cfg = {}
 
-
-
-
-
-```python
-files = os.listdir(yam_path)
-    for filename in files:
+    for filename in os.listdir(yam_path):
         if filename.endswith(".yaml"):
-            cfg.update(yaml.load(open(f'{yam_path}\\{filename}'), yaml.SafeLoader))
+            cfg.update(yaml.load(open(fr'{yam_path}\\{filename}'), yaml.SafeLoader))
             context['cfg'] = cfg
-```
 
-
-
-
-
-```python
-def yaml_template_variant(pth_template, outfile):
     with open(f'{outfile}', 'w') as f:
         f.write(Template(open(pth_template).read()).render(context))
+
 ```
 
 
@@ -40,7 +26,6 @@ def yaml_template_variant(pth_template, outfile):
 {% set j1 = elv['roles'] %}
 {% set s2 =cfg.linkedin_aboutme %}
 {% set linked =cfg['cv_related']['linkedin']  %}
-
 
 # {{a1.name}}
 
@@ -106,3 +91,6 @@ def yaml_template_variant(pth_template, outfile):
 
 {% endfor %}
 ```
+
+
+
