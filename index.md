@@ -1,7 +1,6 @@
 # Resources
 
-- [Online and Offline CV](docs\profile.md)
-
+- [Online and Offline CV](profile.md)
 
 
 * Products
