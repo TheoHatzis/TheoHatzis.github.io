@@ -28,10 +28,10 @@
 
 ## Online  CV  
 
-* [Theo Hatzis MSc](docs/Theo_Hatzis_3b.html) (html)
+* [Theo Hatzis MSc](Theo_Hatzis_3b.html) (html)
 
 ## CV Downloads
 
-* [Short, as online](docs\Theo_Hatzis_3b.pdf) (PDF) 
-* [Longer](docs\Theo_Hatzis_2.pdf) (PDF) 
+* [Short, as online](Theo_Hatzis_3b.pdf) (PDF) 
+* [Longer](Theo_Hatzis_2.pdf) (PDF) 
 
