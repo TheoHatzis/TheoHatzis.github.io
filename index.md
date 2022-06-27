@@ -1,15 +1,9 @@
-# Resources
+# Theo Hatzis Profile
 
-- [Online and Offline CV](profile.html)
-
-
-* Products
-
-* Software Topics
-
-* Hardware Topics
+- [Profile](docs/Theo_Hatzis.docx)
 
   
+
 
   
 
