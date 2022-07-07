@@ -1,7 +1,9 @@
-# Theo Hatzis
+# Theo Hatzis Profile
 
 ------
- [CV]\docs\Theo_Hatzis.pdf)
+ - [CV (html)](docs\theo_hatzis0.html)
+ - [MSWord](docs\theo_hatzis.pdf)
+ 
 
 
 
