@@ -1,0 +1,240 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=DE style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif;
+color:black'>CV Builder</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='color:black'>I like using Python automation for basic things.</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='color:black'>For CV building MSWord you can use the help of
+Ninja2&nbsp;<span style='font-variant-ligatures: normal;font-variant-caps: normal;
+orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+word-spacing:0px'>with </span>docxtpl</span><span style='font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+float:none;word-spacing:0px'><span lang=EN-GB>&nbsp;<span style='font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+word-spacing:0px'></span>templates together with a dictionary of YAML files to
+help build the thing automatically</span><span style='font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+word-spacing:0px'>&nbsp;</span></p>
+
+</span>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif;
+color:black'>For a bit of fun, a&nbsp;<b>typical</b>&nbsp;MSWord CV ninja2
+template page, that takes care of the Word XML stuff behind the scenes, might
+look like this</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 align=left
+ style='margin-bottom:5.75pt'>
+ <tr style='height:424.5pt'>
+  <td width=703 valign=top style='width:527.25pt;border:solid black 1.0pt;
+  padding:0cm 0cm 0cm 0cm;height:424.5pt'>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%'>
+   <tr>
+    <td style='padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set cv5000 = cfg[‘CV_lambk’] %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set&nbsp;miscstuff&nbsp;= cv5000[‘miscstuff’] %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set option =&nbsp;0&nbsp;&nbsp;%}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set contact = cv5000['contact details'] %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set summary =cv5000[‘Summary'] %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set experience = cv5000[‘Experience Areas’] %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>{%p
+    set projects = cv5000[‘Projects’] %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><b><span
+    lang=EN-GB style='font-size:14.0pt;font-family:"Times New Roman",serif'>{{contact.
+    name}}</span></b></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:12.0pt;font-family:"Times New Roman",serif'>{{&nbsp;contact.mob}}&#9643;{{contact.email}}&#9643;{{contact.avail}}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:12.0pt;font-family:"Times New Roman",serif'>USt-IdNr:
+    {{VAT}} &#9643;Language: {{contact.Lang}}&#9643;{{contact.when}}</span></p>
+    <p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
+    0cm;margin-left:0cm;line-height:normal'><span lang=EN-GB style='font-size:
+    12.0pt;font-family:"Times New Roman",serif'>{{summary.p0}}<a
+    name="_Hlk105417211"></a></span></p>
+    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
+    0cm;margin-left:37.7pt;text-indent:-17.85pt;line-height:11.5pt'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:Wingdings'>§</span><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp;</span><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Cambria",serif'>{{miscstuff.experience}}</span></p>
+    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
+    0cm;margin-left:37.7pt;text-indent:-17.85pt;line-height:11.5pt'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:Wingdings'>§</span><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp;</span><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Cambria",serif'>{{miscstuff[‘interested
+    in’]}}</span></p>
+    <p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
+    0cm;margin-left:0cm;line-height:normal'><b><span lang=EN-GB
+    style='font-size:12.0pt;font-family:"Times New Roman",serif'>{{cfg.cv_related.skills1}}</span></b></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal;background:
+    white'><span lang=EN-GB style='font-size:10.0pt;font-family:"Cambria",serif;
+    color:black'>{%p for keys, values&nbsp; in </span><span lang=EN-GB
+    style='font-size:7.0pt;font-family:"Courier New";color:black'>experience</span><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Cambria",serif;color:black'>.items()&nbsp;
+    %} </span></p>
+    <p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
+    0cm;margin-left:29.2pt;text-indent:-17.85pt;line-height:normal'><b><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{{
+    keys}}</span></b></p>
+    <p class=MsoNormal style='margin-bottom:6.0pt;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p
+    for ii,&nbsp;oo&nbsp;in&nbsp;values.items() %}</span></p>
+    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
+    0cm;margin-left:37.7pt;text-indent:-17.85pt;line-height:11.5pt'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:Wingdings'>§</span><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp;</span><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Cambria",serif'>{{oo}}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p
+    endfor %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p
+    endfor %}</span></p>
+    <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
+    0cm;margin-left:0cm;line-height:normal'><b><span lang=EN-GB
+    style='font-size:12.0pt;font-family:"Times New Roman",serif'>{{cfg.cv_related.f_items1.train_edu}}</span></b></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p
+    for&nbsp;idata&nbsp;in cfg[‘Training’].values() %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{{&nbsp;idata&nbsp;}}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p&nbsp;endfor&nbsp;%}</span></p>
+    <p class=MsoNormal style='margin-top:12.0pt;margin-right:0cm;margin-bottom:
+    0cm;margin-left:0cm;line-height:normal'><b><span lang=EN-GB
+    style='font-size:12.0pt;font-family:"Times New Roman",serif'>{{cfg.cv_related.projects2}}</span></b></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p
+    for ii in&nbsp;cfg.cv_related.projectss.values():&nbsp;&nbsp;%}</span></p>
+    <p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:
+    0cm;margin-left:0cm;line-height:normal'><i><span lang=EN-GB
+    style='font-size:10.0pt;font-family:"Times New Roman",serif'>{{cfg[ii][‘role’]}}</span></i><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Times New Roman",serif'>,&nbsp;&nbsp;{{cfg[ii][‘company’]}},
+    {{cfg[ii][‘start_date’]}} – {{cfg[ii][‘end_date’]
+    }}&nbsp;&nbsp;[{{cfg[ii][‘agent1’] }}]</span></p>
+    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
+    0cm;margin-left:37.7pt;text-indent:-17.85pt;line-height:11.5pt'><span
+    lang=EN-GB style='font-size:10.0pt;font-family:Wingdings'>§</span><span
+    lang=EN-GB style='font-size:7.0pt;font-family:"Times New Roman",serif'>&nbsp;&nbsp;</span><span
+    lang=EN-GB style='font-size:10.0pt;font-family:"Cambria",serif'>{{cfg[ii].exp_short.k1}}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    style='font-size:10.0pt;font-family:"Times New Roman",serif'>{%p endfor %}</span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+    style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+    </td>
+   </tr>
+  </table>
+  <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+  style='font-size:12.0pt;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:13.5pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:13.5pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:13.5pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
+lang=EN-GB style='font-size:13.5pt;font-family:"Times New Roman",serif;
+color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+margin-left:36.0pt;line-height:normal'><span lang=EN-GB style='font-size:13.5pt;
+font-family:"Times New Roman",serif;color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
