@@ -16,10 +16,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:Zoom>170</w:Zoom>
   <w:DisplayBackgroundShape/>
-  <w:HideSpellingErrors/>
-  <w:HideGrammaticalErrors/>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves/>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -692,7 +688,8 @@ h1
 	mso-fareast-theme-font:minor-fareast;
 	font-weight:bold;}
 h2
-	{mso-style-priority:9;
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
 	mso-style-qformat:yes;
 	mso-style-link:"Heading 2 Char";
 	mso-style-next:Normal;
@@ -718,7 +715,8 @@ h2
 	mso-themeshade:191;
 	font-weight:bold;}
 p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
-	{mso-style-priority:11;
+	{mso-style-noshow:yes;
+	mso-style-priority:11;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-link:"Subtitle Char";
@@ -766,7 +764,8 @@ p
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
 p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{mso-style-priority:34;
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	margin-top:0cm;
@@ -780,7 +779,8 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
 p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{mso-style-priority:34;
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
@@ -795,7 +795,8 @@ p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphC
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
 p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{mso-style-priority:34;
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
@@ -810,7 +811,8 @@ p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagrap
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
 p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{mso-style-priority:34;
+	{mso-style-noshow:yes;
+	mso-style-priority:34;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-type:export-only;
@@ -852,6 +854,7 @@ span.Heading1Char
 	color:#2F5496;}
 span.Heading2Char
 	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
 	mso-style-priority:9;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
@@ -873,6 +876,8 @@ span.Heading2Char
 	font-weight:bold;}
 p.msonormal0, li.msonormal0, div.msonormal0
 	{mso-style-name:msonormal;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -906,6 +911,8 @@ span.SubtitleChar
 	letter-spacing:.75pt;}
 p.msochpdefault, li.msochpdefault, div.msochpdefault
 	{mso-style-name:msochpdefault;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
@@ -918,6 +925,8 @@ p.msochpdefault, li.msochpdefault, div.msochpdefault
 	mso-fareast-theme-font:minor-fareast;}
 p.Bulls2, li.Bulls2, div.Bulls2
 	{mso-style-name:Bulls2;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-qformat:yes;
 	mso-style-parent:"";
@@ -931,12 +940,6 @@ p.Bulls2, li.Bulls2, div.Bulls2
 	mso-bidi-font-family:Cambria;
 	mso-ansi-language:EN-GB;
 	mso-fareast-language:EN-US;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -953,86 +956,10 @@ div.WordSection1
 	{page:WordSection1;}
  /* List Definitions */
  @list l0
-	{mso-list-id:282075261;
-	mso-list-template-ids:846369012;}
-@list l0:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l0:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l0:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1
 	{mso-list-id:785664294;
 	mso-list-type:hybrid;
 	mso-list-template-ids:301896526 67567621 67567619 67567621 67567617 67567619 67567621 67567617 67567619 67567621;}
-@list l1:level1
+@list l0:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
@@ -1040,7 +967,7 @@ div.WordSection1
 	margin-left:54.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l1:level2
+@list l0:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
@@ -1048,7 +975,7 @@ div.WordSection1
 	margin-left:90.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l1:level3
+@list l0:level3
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
@@ -1056,7 +983,7 @@ div.WordSection1
 	margin-left:126.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l1:level4
+@list l0:level4
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
@@ -1064,7 +991,7 @@ div.WordSection1
 	margin-left:162.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l1:level5
+@list l0:level5
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
@@ -1072,7 +999,7 @@ div.WordSection1
 	margin-left:198.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l1:level6
+@list l0:level6
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
@@ -1080,7 +1007,7 @@ div.WordSection1
 	margin-left:234.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l1:level7
+@list l0:level7
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
 	mso-level-tab-stop:none;
@@ -1088,7 +1015,7 @@ div.WordSection1
 	margin-left:270.0pt;
 	text-indent:-18.0pt;
 	font-family:Symbol;}
-@list l1:level8
+@list l0:level8
 	{mso-level-number-format:bullet;
 	mso-level-text:o;
 	mso-level-tab-stop:none;
@@ -1096,7 +1023,7 @@ div.WordSection1
 	margin-left:306.0pt;
 	text-indent:-18.0pt;
 	font-family:"Courier New";}
-@list l1:level9
+@list l0:level9
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
 	mso-level-tab-stop:none;
@@ -1104,10 +1031,86 @@ div.WordSection1
 	margin-left:342.0pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l2
+@list l1
 	{mso-list-id:919366197;
 	mso-list-type:hybrid;
 	mso-list-template-ids:1686017258 67567621 67567619 67567621 67567617 67567619 67567621 67567617 67567619 67567621;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:55.85pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:91.85pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:127.85pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:163.85pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:199.85pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:235.85pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:271.85pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:307.85pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:343.85pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:1086343715;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1085188552 67567621 67567619 67567621 67567617 67567619 67567621 67567617 67567619 67567621;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
@@ -1181,9 +1184,9 @@ div.WordSection1
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
 @list l3
-	{mso-list-id:1086343715;
+	{mso-list-id:1619408027;
 	mso-list-type:hybrid;
-	mso-list-template-ids:1085188552 67567621 67567619 67567621 67567617 67567619 67567621 67567617 67567619 67567621;}
+	mso-list-template-ids:-1131530376 67567621 67567619 67567621 67567617 67567619 67567621 67567617 67567619 67567621;}
 @list l3:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0A7;
@@ -1256,82 +1259,6 @@ div.WordSection1
 	margin-left:343.85pt;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
-@list l4
-	{mso-list-id:1619408027;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-1131530376 67567621 67567619 67567621 67567617 67567619 67567621 67567617 67567619 67567621;}
-@list l4:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:55.85pt;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l4:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:91.85pt;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l4:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:127.85pt;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l4:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:163.85pt;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l4:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:199.85pt;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l4:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:235.85pt;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l4:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:271.85pt;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l4:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:307.85pt;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l4:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	margin-left:343.85pt;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
 ol
 	{margin-bottom:0cm;}
 ul
@@ -1377,7 +1304,7 @@ where I keep my online profile<o:p></o:p></span></p>
 <p class=MsoNormal><span lang=EN-GB style='mso-ansi-language:EN-GB'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoListParagraph style='margin-left:54.0pt;mso-add-space:auto;
-text-indent:-18.0pt;mso-list:l1 level1 lfo2'><![if !supportLists]><span
+text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings;mso-ansi-language:EN-GB'><span style='mso-list:
 Ignore'>&sect;<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
@@ -1396,152 +1323,148 @@ href="docs/theo_hatzis3.html">HTML</a><o:p></o:p></span></p>
 mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-GB style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-GB'>Independent, 3-6 months, mainly onsite<o:p></o:p></span></p>
+mso-ansi-language:EN-GB'>Independent, 3-6 months, onsite<o:p></o:p></span></p>
 
 <p class=MsoNormal>USt-IdNr: DE259921718</p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal><span class=MsoIntenseEmphasis>Engineer with experience in
-mobile platform design verification, post-silicon component verification,
-silicon validation, and schematic design capture work is seeking new projects
-in hardware design or test; or in semiconductors verification and
-semiconductors validation testing<o:p></o:p></span></p>
+<p class=MsoNormal><span class=MsoIntenseEmphasis><span lang=EN-GB
+style='mso-ansi-language:EN-GB'>Engineer with experience in mobile platform
+design verification, post-silicon component verification, silicon validation,
+and schematic design capture work is seeking new projects in hardware design or
+test, or in semiconductors verification and semiconductors validation testing<o:p></o:p></span></span></p>
 
-<p class=MsoNormal><span class=MsoIntenseEmphasis><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span class=MsoIntenseEmphasis><span lang=EN-GB
+style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></span></p>
 
 <h2>My Interests are</h2>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
 minor-fareast'>Electronics hardware design<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-minor-fareast'>V&amp;V on Semiconductors power and mixed signa, SiC and <span
-class=SpellE>GaN</span> power MOSFETs<o:p></o:p></span></p>
+minor-fareast'>V&amp;V on Semiconductors power and mixed signa, SiC and GaN
+power MOSFETs<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-minor-fareast'><span style='mso-spacerun:yes'>&nbsp;</span><span class=GramE>ADCs,
-<span style='mso-spacerun:yes'>&nbsp;</span>DAC</span>, PMIC<o:p></o:p></span></p>
+minor-fareast'><span style='mso-spacerun:yes'>&nbsp;</span>ADCs, DAC, PMIC<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-minor-fareast'>Test Measurement in Python, <span class=GramE>MATLAB, <span
-style='mso-spacerun:yes'>&nbsp;</span>and</span> C#<o:p></o:p></span></p>
+minor-fareast'>Test Measurement in Python, MATLAB, and C#<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
 minor-fareast'>Data analysis and visualisation <o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
 minor-fareast'>8-bit, 16-bit and 32-bit microprocessor applications<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
 minor-fareast'>SPICE Simulation<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
-lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
-style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-class=GramE><span lang=EN-GB style='mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:minor-fareast'>Sensors</span></span><span lang=EN-GB
-style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast'>
-technology<o:p></o:p></span></p>
-
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-minor-fareast'>Lithium battery and energy storage technology, battery <span
-class=SpellE><span class=GramE>comditioning</span></span><span class=GramE>, <span
-style='mso-spacerun:yes'>&nbsp;</span>Battery</span> test, BMS<o:p></o:p></span></p>
+minor-fareast'>Sensors technology<o:p></o:p></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo4'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
-minor-fareast'>Mechatronics<o:p></o:p></span></p>
+minor-fareast'>Lithium battery and energy storage technology, battery
+conditioning, Battery test, BMS<o:p></o:p></span></p>
+
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><span
+lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
+mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+lang=EN-GB style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:
+minor-fareast'>Mechatronics and other automation<o:p></o:p></span></p>
 
 <h2>Semiconductor Experience</h2>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Component verification of IBJT and SiC high-voltage gate drivers </span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Validation of DCDC, Buck-Boost, Charge Pumps, PMIC Chipsets, and
 Modems PMU </span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Correlations between Simulation and ATE and Bench</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Verification with PRQ and Datasheets </span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Automation of test cases with MATLAB, Python/PyVISA/Pandas,
 Teststand, LabVIEW, C#/VISA, Test-Frameworks, and APIs</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>ADC measurements</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Issues and investigations</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Competitive analysis and side-by-side work</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l2 level1 lfo6'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
@@ -1552,70 +1475,61 @@ lang=EN-GB>FMEDA</span></p>
 style='mso-fareast-font-family:"Times New Roman";mso-fareast-theme-font:minor-fareast;
 mso-ansi-language:EN-GB'><o:p></o:p></span></h2>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Semiconductor V &amp; <span class=GramE>V<span
-style='mso-spacerun:yes'>&nbsp; </span>(</span>TI, Comneon,<span
-style='mso-spacerun:yes'>&nbsp; </span>Intel,<span
-style='mso-spacerun:yes'>&nbsp; </span>and Infineon)</span></p>
+lang=EN-GB>Semiconductor V &amp; V with TI, Ericsson, Comneon, Intel, Dialog
+Semiconductor, Infineon</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>3G/4G hardware design.<span style='mso-spacerun:yes'>&nbsp;
-</span>Design and implementation on an LTE phone <span class=SpellE>emonstrator</span>
-(Ericsson)</span></p>
+lang=EN-GB>3G/4G protocol stack hardware design (Ericsson)</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
 lang=EN-GB>Smartphones (Sendo)</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Tablet Computers &amp; Wireless Terminals (Psion Enterprise, Psion-
-Teklogix)</span></p>
+lang=EN-GB>Tablet Computers &amp; Wireless Terminals (Psion Enterprise, Psion-Teklogix)</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Highways <span class=GramE>infrastructure<span
-style='mso-spacerun:yes'>&nbsp; </span>subsystems</span> &#8211; M25 Controlled
-Motorways Pilot MIDAS Subsystem (Golden River)</span></p>
+lang=EN-GB>Highways infrastructure subsystems &#8211; M25 Controlled Motorways
+Pilot MIDAS Subsystem (SERCO/Golden River)</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Vehicular traffic <span class=GramE>data<span
-style='mso-spacerun:yes'>&nbsp; </span>equipment</span>, <span class=SpellE>Wiegh</span>-In-Motion
-(WIM), COST323, Pollution, Inductance Loop, Tubes, Bicycle detection (Golden
-River)</span></p>
+lang=EN-GB>Vehicular traffic data equipment, Weigh-In-Motion (WIM), COST323,
+Pollution, Inductance Loop, Tubes, Bicycle detection (Golden River)</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Medical devices and diagnostics equipment (IMED, <span class=SpellE>Innotron</span>,
+lang=EN-GB>Medical devices and diagnostics equipment (IMED, Innotron,
 Oakfield), Infusion Pumps, FPIA, Scintillation Gamma<span
 style='mso-spacerun:yes'>&nbsp; </span></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Industrial materials <span class=GramE>analysers<span
-style='mso-spacerun:yes'>&nbsp; </span>e.g.</span> NMR (MRI), XRF and XRAY (Oxford
+lang=EN-GB>Industrial materials analysers with NMR (MRI), XRF and XRAY (Oxford
 Analytical Instruments)</span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
@@ -1623,35 +1537,27 @@ lang=EN-GB>Photovoltaics (Venture Technology)</span></p>
 
 <h2><span lang=EN-GB style='mso-ansi-language:EN-GB'>Other Experience<o:p></o:p></span></h2>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings;mso-no-proof:yes'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Coding in C#, Python and <span class=SpellE>Matlab</span>,
-toolchain, bare-metal C on PICs and ARM3 <span style='mso-no-proof:yes'><o:p></o:p></span></span></p>
+lang=EN-GB>Coding in C#, Python and MATLAB, toolchain, bare-metal C on PICs and
+ARM3 <span style='mso-no-proof:yes'><o:p></o:p></span></span></p>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings;mso-no-proof:yes'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-class=SpellE><span lang=EN-GB>PyQT</span></span><span lang=EN-GB> GUI, <span
-class=SpellE>winForms</span><span style='mso-no-proof:yes'><o:p></o:p></span></span></p>
-
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
-lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
-style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Electrochemical interfaces, <span class=SpellE>potentiostats</span>.<span
-style='mso-spacerun:yes'>&nbsp; </span>Spectroscopic methods</span></p>
+lang=EN-GB>PyQT GUI, WinForms<span style='mso-no-proof:yes'><o:p></o:p></span></span></p>
 
 <h2>Selected Courses</h2>
 
-<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l4 level1 lfo8'><![if !supportLists]><span
+<p class=Bulls2 style='margin-left:55.85pt;text-indent:-18.0pt;mso-list:l3 level1 lfo8'><![if !supportLists]><span
 lang=EN-GB style='font-family:Wingdings;mso-fareast-font-family:Wingdings;
 mso-bidi-font-family:Wingdings'><span style='mso-list:Ignore'>&sect;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
-lang=EN-GB>Robotics Control and Algorithms, Control, Gas <span class=GramE>Sensing,
-<span style='mso-spacerun:yes'>&nbsp;</span>Advanced</span> Electrode Kinetics<o:p></o:p></span></p>
+lang=EN-GB>Robotics Control and Algorithms, Control, Gas Sensing, Advanced
+Electrode Kinetics, Spectroscopy, RF Engineering</span></p>
 
 </div>
 
