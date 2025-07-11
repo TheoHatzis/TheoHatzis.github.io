@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 2:00:44 pm
-date modified: Friday, July 11th 2025, 6:33:12 pm
+date modified: Friday, July 11th 2025, 7:22:22 pm
 title: Theo Hatzis - Independent Contractor CV3
 tags: [cv]
 ---
@@ -16,11 +16,11 @@ tags: [cv]
 <br>
 - Greek and British
 - German Speaker? (No)
-- City Nürnberg
+- Loc: Nürnberg
 
 # Summary:
 
-A versatile and experienced multidisciplinary engineer and consultant, bridging complex scientific theories with tangible engineering outcomes. Expertise spans electronics systems, chemistry, electrochemistry, spectroscopy, materials science, medical equipment, devices and diagnostics, and semiconductor testing. Specialising in battery and energy solutions, and advanced electronic systems. Translating advanced technical discussions into actionable test strategies, I provide hands-on support from product architecture and design through rigorous validation and verification. I excel at solving complex R&D challenges by applying a unique combination of electronics engineering, electrochemistry, spectroscopy, and data analysis. Available to DACH and EU clients, engaging freelancers directly or via suppliers. Available for contract work, eager to contribute to your next project by providing technical support and testing, co-worker collaborating with your Expert Leads, PhD, and Master's-level professionals. As a Generalist and Specialist, I can do both, but only your project defines me!
+A versatile and experienced multidisciplinary engineer and consultant, bridging complex scientific theories with tangible engineering outcomes. Expertise spans electronics systems, chemistry, electrochemistry, spectroscopy, materials science, medical equipment, devices and diagnostics, and semiconductor testing. Specialising in battery and energy solutions, and advanced electronic systems. Translating advanced technical discussions into actionable test strategies, I provide hands-on support from product architecture and design through rigorous validation and verification. I excel at solving complex R&D challenges by applying a unique combination of electronics engineering, electrochemistry, spectroscopy, and data analysis. Available to DACH and EU clients, engaging freelancers directly or via suppliers. Available for contract work, eager to contribute to your next project by providing technical support and testing, co-worker collaborating with your Expert Leads, PhD, and Master's-level professionals. As a Generalist and Specialist, I can do both, with well formed, well rounded  experience, but it is only your current project that defines me!
 
  I am available. Contact me to learn more!
 
@@ -149,3 +149,6 @@ Available for short to medium-term hire in R&D, design, and testing contracts ac
 - **Version Control & Collaboration:**
     - **Version Control:** Git, SVN.
     - **Project Management:** Jira, JAMA.
+
+
+
