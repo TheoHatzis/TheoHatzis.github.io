@@ -4,10 +4,12 @@ date modified: Sunday, January 18th 2026, 10:56:14 pm
 layout: default
 title: "Theo Hatzis — Senior Electronics Architect & Semiconductor V&V Specialist"
 ---
+![](/assets/images/bg.png)
 
-
+background-image: url('/assets/images/bg.png');
 
 ![](/assets/images/bg.png)
+
 
 
 
