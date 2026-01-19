@@ -4,16 +4,16 @@ date modified: Sunday, January 18th 2026, 10:56:14 pm
 layout: default
 title: "Theo Hatzis — Senior Electronics Architect & Semiconductor V&V Specialist"
 ---
-![](assets/images/bg.png) *An Ibex perched high up on a mountain cliff*
+![](assets/images/bg.png) *An Ibex perched high up on a mountain cliff at sunset*
 
 
 
 # **Theo Hatzis, MSc**
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
-_“Der Fuchs” — the fox who finds the flaw no one else sees_
+%% _“Der Fuchs” — the fox who finds the flaw no one else sees_ %%
 
 ---
-
+%%
 ## **About Me**
 
 I’m a hardware‑first engineer specialising in semiconductor validation, mixed‑signal power systems, and system‑level triage. My career spans two decades across the Munich semiconductor ecosystem (Freising, Germering, Nürnberg), Denmark, and the UK.
@@ -73,4 +73,4 @@ A reusable template for SOW or FTC engagements:
 
 The moniker **“Der Fuchs”** originated from my time contracting at Ericsson in Germany. It reflects the idiom **“Der Fuchs findet den Fehler, den keiner sieht” — the fox finds the flaw no one else sees [our clever fox]**, a recognition of my ability to resolve elusive issues in high‑pressure environments. I was retained for four years, with additional budget pulled to keep me on the programme — a rare commitment in a contractor environment and a reflection of the value I delivered.
 
----
+--- %%
