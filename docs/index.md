@@ -1,9 +1,20 @@
 ---
-date created: Sunday, January 18th 2026, 10:28:16 pm
-date modified: Sunday, January 18th 2026, 10:56:14 pm
 layout: default
-title: Goat Mountain Semiconductor Applications"
+title: Goat Mountain Semiconductor Applications
+description: Precision electronics, mixed-signal, validation, architecture
+keywords:
+  - semiconductors
+  - electronics validation
+  - diagnostic architecture
+  - MedTech
+  - Batteries
+author: Theo Hatzis
 ---
+
+
+
+
+
 
 ![](assets/images/bg.png) *An Ibex on a high mountain cliff at sunset, watching the Fuchs working the hard ground below.*
 
