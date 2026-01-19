@@ -5,7 +5,11 @@ layout: default
 title: "Theo Hatzis — Senior Electronics Architect & Semiconductor V&V Specialist"
 ---
 
-![Ibex Banner](/assets/images/ibex-banner.jpg)
+
+
+![](/assets/images/bg.png)
+
+
 
 # **Theo Hatzis, MSc**
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
