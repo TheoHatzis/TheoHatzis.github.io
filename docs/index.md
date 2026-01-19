@@ -3,10 +3,11 @@ layout: default
 title: Goat Mountain Semiconductor Applications
 description: Precision electronics, mixed-signal, validation, architecture
 keywords:
-  - semiconductors
-  - electronics validation
-  - diagnostic architecture
-  - MedTech
+  - semiconductors validation
+  - Mixed Signal Electronics Design & Integration
+  - Architecture & Products
+  - MedTech & SciTech Apps
+  - Critical Infrastructure
   - Batteries
 author: Theo Hatzis
 ---
