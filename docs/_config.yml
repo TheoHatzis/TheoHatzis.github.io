@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
+
 title: Goat Mountain Semiconductor Applications
-description: 
+description: Precision electronics, validation, and diagnostic architecture
+
+plugins:
+  - jekyll-seo-tag
