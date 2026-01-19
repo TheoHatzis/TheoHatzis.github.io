@@ -11,6 +11,7 @@ background-image: url('/assets/images/bg.png');
 ![](/assets/images/bg.png)
 
 
+<img src="/assets/images/bg.png" alt="Ibex">
 
 
 # **Theo Hatzis, MSc**
