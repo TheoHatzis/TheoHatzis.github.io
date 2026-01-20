@@ -6,10 +6,10 @@ description: Precision Electronics, Mixed-signal, Validation, Architecture
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 4:19:11 pm
+date modified: Tuesday, January 20th 2026, 5:43:14 pm
 ---
 
-![](assets/images/bg.png)
+![](assets/images/bg_wide.png)
 *An Ibex on a high mountain cliff at sunset, watching the Fuchs working the hard ground below.*
 
 ---
@@ -18,8 +18,8 @@ date modified: Tuesday, January 20th 2026, 4:19:11 pm
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
  _“Der Fuchs” — the fox who finds the flaw no one else sees_
 
-<div style="text-align: center; color: black; font-size: 1.2em;">
-  Scale, Complexity, and Efficiency
+<div style="text-align: center; color: white; font-size: 1.2em;">
+  Scale, Complexity, and Efficiency - from DC to Light
 </div>
 
 ---
