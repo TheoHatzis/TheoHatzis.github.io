@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Goat Mountain Semiconductor (T/A)
+title: Goat Mountain Semiconductors
 description: Precision Electronics, Mixed-signal, Validation, Architecture
 
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 1:55:04 pm
+date modified: Tuesday, January 20th 2026, 4:08:09 pm
 ---
 
 ![](assets/images/bg.png)
@@ -35,7 +35,7 @@ My banner imagery — an Ibex perched on a mountain cliff at sunset — symbolis
 - the **Fox** at the coalface, solving what others miss  
 - the **Ibex**, surveying the full system landscape with quiet precision  
 
-I operate flexibly across SOW‑aligned engagements and **Fixed‑Term Contracts**, providing structured technical grids, validation matrices, and milestone‑driven outcomes.
+I operate flexibly across SOW‑aligned engagements and Fixed‑Term Contracts, providing structured technical grids, validation matrices, and milestone‑driven outcomes.
 
 ---
 
