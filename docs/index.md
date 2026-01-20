@@ -1,33 +1,21 @@
 ---
 layout: default
-title: Goat Mountain Semiconductors
-description: Precision electronics, mixed-signal, validation, architecture
-keywords:
-  - semiconductors validation
-  - Mixed Signal Electronics Design & Integration
-  - Architecture & Products
-  - MedTech & SciTech Apps
-  - Critical Infrastructure
-  - Batteries
-  - Students Advisor
+title: index
+description: Precision electronics, mixed-signal, validation, architecture,  Scale, Complexity, and Efficiency
+keywords: [semiconductors validation, Mixed Signal Electronics Design & Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 12:21:13 pm
+date modified: Tuesday, January 20th 2026, 12:56:42 pm
 ---
 
-
-
-
-
-
-![](assets/images/bg.png) *An Ibex on a high mountain cliff at sunset, watching the Fuchs working the hard ground below.*
-
+![](assets/images/bg.png)
+*An Ibex on a high mountain cliff at sunset, watching the Fuchs working the hard ground below.*
 
 ---
 
 ## Theo Hatzis
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
- _“Der Fuchs” — the fox who finds the flaw no one else sees_ 
+ _“Der Fuchs” — the fox who finds the flaw no one else sees_
 
 ---
 
@@ -86,9 +74,3 @@ Rapid integration into existing teams, stabilising hardware, accelerating valida
 ## **Endnote**
 
 The moniker **“Der Fuchs”** originated from my time contracting at Ericsson in Germany. It reflects the idiom **“Der Fuchs findet den Fehler, den keiner sieht” — the fox finds the flaw no one else sees [our clever fox]**, a recognition of my ability to resolve elusive issues in high‑pressure environments. I was retained for four years, with additional budget pulled to keep me on the programme — a rare commitment in a contractor environment and a reflection of the value I delivered.
-
-
-
-
-
-
