@@ -1,11 +1,12 @@
 ---
 layout: default
 title: index
-description: Precision electronics, mixed-signal, validation, architecture,  Scale, Complexity, and Efficiency
+description: Precision Electronics, Mixed-signal, Validation, Architecture,  
+description2: Scale, Complexity, and Efficiency
 keywords: [semiconductors validation, Mixed Signal Electronics Design & Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 12:56:42 pm
+date modified: Tuesday, January 20th 2026, 1:04:39 pm
 ---
 
 ![](assets/images/bg.png)
