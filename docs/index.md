@@ -6,7 +6,7 @@ description: Precision Electronics, Mixed-signal, Validation, Architecture
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 1:22:28 pm
+date modified: Tuesday, January 20th 2026, 1:55:04 pm
 ---
 
 ![](assets/images/bg.png)
@@ -30,23 +30,26 @@ I’m a hardware‑first engineer specialising in semiconductor validation, mixe
 
 I’m known for resolving elusive silicon issues, stabilising complex hardware platforms, and bringing clarity to systems under stress. During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”** — *the fox who finds the flaw no one else sees [our clever fox]* — a reflection of my diagnostic intuition and ability to deliver under pressure.
 
-My banner imagery — an **Ibex perched on a mountain cliff at sunset** — symbolises the dual nature of my work:
+My banner imagery — an Ibex perched on a mountain cliff at sunset — symbolises the dual nature of my work:
 
 - the **Fox** at the coalface, solving what others miss  
 - the **Ibex**, surveying the full system landscape with quiet precision  
 
-I operate flexibly across **SOW‑aligned engagements** and **Fixed‑Term Contracts**, providing structured technical grids, validation matrices, and milestone‑driven outcomes.
+I operate flexibly across SOW‑aligned engagements and **Fixed‑Term Contracts**, providing structured technical grids, validation matrices, and milestone‑driven outcomes.
 
 ---
 
+
 ## **Core Expertise**
 
-- Post‑Silicon Validation (PMIC/PMU, PVT corners, silicon‑to‑model correlation)  
-- Mixed‑Signal & Power (Buck/Boost, GaN/SiC gate drivers, multiphase converters)  
-- System Architecture (MedTech, scientific instrumentation, mobile platforms)  
-- Automation (Python/PyVISA, Pandas, NumPy, Pytest, Plotly)  
-- Embedded (ARM toolchains, Bare‑Metal C, JTAG, Trace32)  
-- Compliance (ISO 13485, ISO 26262, TRG 1068, EN60950)
+- **Post‑Silicon Validation:** PMIC/PMU, PVT corners, and silicon‑to‑model correlation.
+- **Mixed‑Signal & Power:** Buck/Boost, GaN/SiC gate drivers, and multiphase converters.
+- **System Architecture:** Specialist for MedTech, scientific instrumentation, and mobile platforms.
+- **Automation & Data:** Python (PyVISA, Pandas, NumPy, Pytest, Plotly).
+- **Embedded Systems:** ARM toolchains, Bare‑Metal C, JTAG, and Trace32.
+- **Compliance & Standards:** ISO 13485, ISO 26262, TRG 1068, and EN 60950.
+- **Power Electronics:** Systems Design and Verification of Power Losses and Stabilities.
+
 
 ---
 ## **CV & Contact**
