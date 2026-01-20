@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Goat Mountain Semiconductors
+title: "'Goat Mountain Semiconductors'"
 description: Precision Electronics, Mixed-signal, Validation, Architecture
 
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 4:08:09 pm
+date modified: Tuesday, January 20th 2026, 4:19:11 pm
 ---
 
 ![](assets/images/bg.png)
