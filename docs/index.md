@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Goat Mountain Semiconductor Applications
+title: Goat Mountain Semiconductors
 description: Precision electronics, mixed-signal, validation, architecture
 keywords:
   - semiconductors validation
@@ -9,7 +9,10 @@ keywords:
   - MedTech & SciTech Apps
   - Critical Infrastructure
   - Batteries
+  - Students Advisor
 author: Theo Hatzis
+date created: Tuesday, January 20th 2026, 11:59:18 am
+date modified: Tuesday, January 20th 2026, 12:21:13 pm
 ---
 
 
