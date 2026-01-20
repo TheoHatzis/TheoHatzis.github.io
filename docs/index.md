@@ -1,16 +1,16 @@
 ---
 layout: default
 title: "'Goat Mountain Semiconductors'"
-description: Precision Electronics, Mixed-signal, Validation, Architecture
+description: Precision Electronics, Mixed-signal, Validation, Architecture, Products & Systems
 
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 5:55:55 pm
+date modified: Tuesday, January 20th 2026, 6:06:44 pm
 ---
 
 ![](assets/images/bg_wide.png)
-*An Ibex on a high mountain cliff at sunset, watching the Fuchs working the hard ground below.*
+*An Ibex perched on a high mountain cliff at sunset, watching the Fuchs working the hard ground below.*
 
 ---
 
@@ -26,9 +26,9 @@ date modified: Tuesday, January 20th 2026, 5:55:55 pm
 
 ## **About Me**
 
-I’m a hardware‑first engineer specialising in semiconductor validation, mixed‑signal power systems, and system‑level triage. My career spans two decades across the Munich semiconductor ecosystem (Freising, Germering, Nürnberg), Denmark, and the UK.
+I focus on hardware engineering, specialising in semiconductor validation, mixed-signal power systems, and system-level triage. Over two decades, I have built my career across the Munich semiconductor ecosystem (Freising, Germering, Nürnberg), Denmark, and around Oxford in the Thames Valley, UK
 
-I’m known for resolving elusive silicon issues, stabilising complex hardware platforms, and bringing clarity to systems under stress. During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”** — *the fox who finds the flaw no one else sees [our clever fox]* — a reflection of my diagnostic intuition and ability to deliver under pressure.
+I’m known for resolving elusive silicon issues, stabilising complex hardware platforms, and bringing clarity to systems under stress. During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”** — *the fox who finds the flaw no one else sees [our clever fox]* — a reflection of my diagnostic creative solving problem intuition and the ability to deliver under hard real-time pressures.
 
 My banner imagery — an Ibex perched on a mountain cliff at sunset — symbolises the dual nature of my work:
 
