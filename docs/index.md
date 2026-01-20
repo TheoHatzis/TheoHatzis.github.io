@@ -6,7 +6,7 @@ description: Precision Electronics, Mixed-signal, Validation, Architecture,
 keywords: [semiconductors validation, Mixed Signal Electronics Design & Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 1:13:28 pm
+date modified: Tuesday, January 20th 2026, 1:18:58 pm
 ---
 
 ![](assets/images/bg.png)
@@ -18,7 +18,7 @@ date modified: Tuesday, January 20th 2026, 1:13:28 pm
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
  _“Der Fuchs” — the fox who finds the flaw no one else sees_
 
-<div style="text-align: center; color: yellow; font-size: 1.2em;">
+<div style="text-align: center; color: black; font-size: 1.2em;">
   Scale, Complexity, and Efficiency
 </div>
 
