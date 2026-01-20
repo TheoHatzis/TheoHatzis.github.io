@@ -1,12 +1,12 @@
 ---
 layout: default
-title: index
-description: Precision Electronics, Mixed-signal, Validation, Architecture,  
+title: Goat Mountain Semiconductor (T/A)
+description: Precision Electronics, Mixed-signal, Validation, Architecture
 
-keywords: [semiconductors validation, Mixed Signal Electronics Design & Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
+keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 1:18:58 pm
+date modified: Tuesday, January 20th 2026, 1:22:28 pm
 ---
 
 ![](assets/images/bg.png)
