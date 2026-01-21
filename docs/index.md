@@ -48,4 +48,3 @@ I operate flexibly across SOW‑aligned engagements and Fixed‑Term Contracts, 
 
 ---
 
-(Resources)[[myfile2]]
