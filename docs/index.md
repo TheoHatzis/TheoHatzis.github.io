@@ -6,11 +6,11 @@ description: Precision Electronics, Mixed-signal, Validation, Architecture, Prod
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Wednesday, January 21st 2026, 6:59:45 pm
+date modified: Wednesday, January 21st 2026, 7:07:01 pm
 ---
 
 ![](assets/images/bg_wide.png)
-*An Ibex perched high up on a mountain cliff at sunset, watching the Fuchs working the hard ground below.*
+An Ibex perched on a mountain cliff at sunset, watching the Fuchs working the hard ground below.
 
 ---
 
@@ -47,5 +47,6 @@ I operate flexibly across SOW‑aligned engagements and Fixed‑Term Contracts, 
 - **Power Electronics:** Systems Design and Verification of Power Losses and Stabilities.
 
 ---
+
 
 [more](myfile2.md)
