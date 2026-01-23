@@ -1,6 +1,5 @@
 ---
-date created: Wednesday, January 21st 2026, 6:19:21 pm
-date modified: Friday, January 23rd 2026, 4:13:27 pm
+
 layout: single
 title: "Technical Projects & Validation Matrix"
 author_profile: true
