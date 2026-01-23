@@ -9,7 +9,7 @@ date created: Tuesday, January 20th 2026, 11:59:18 am
 date modified: Wednesday, January 21st 2026, 7:07:01 pm
 ---
 
-![](assets/images/bg_wide.png)
+![](assets/images/bg_wide.png){: .full}
 An Ibex perched on a mountain cliff at sunset, watching the Fuchs working the hard ground below.
 
 ---

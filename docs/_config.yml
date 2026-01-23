@@ -1,30 +1,7 @@
-# Theme Settings
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # Clean, professional white/blue skin
+theme: mminimum
 
-# Site Information
-title: "Goat Mountain Semiconductor"
-name: "Theo Hatzis"
-description: "Senior Electronics Architect & Semiconductor Validation Specialist"
-url: "https://yourusername.github.io" 
-baseurl: "" # Leave empty if your site is at the root of the domain
+title: Goat Mountain Semiconductors
+description: Precision electronics, Mixed-signal design & integration, Semiconductor validation, Architecture, Medical & Scientific apps
 
-# Author Sidebar (The "Der Fuchs" Profile)
-author:
-  name: "Theo Hatzis"
-  avatar: "assets/images/avatar.png" # Optional: put a headshot here
-  bio: "“Der Fuchs” — the fox who finds the flaw no one else sees."
-  location: "UK & Germany"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/your-profile"
-
-# Defaults to ensure all pages look consistent
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true # Always shows your bio on the left
+plugins:
+  - jekyll-seo-tag
