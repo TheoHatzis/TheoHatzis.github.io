@@ -6,7 +6,7 @@ description: Precision Electronics, Mixed-signal, Validation, Architecture, Prod
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
 date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Wednesday, January 21st 2026, 7:07:01 pm
+date modified: Friday, January 23rd 2026, 4:37:50 pm
 ---
 
 ![](assets/images/bg_wide.png){: .full}
@@ -49,4 +49,4 @@ I operate flexibly across SOW‑aligned engagements and Fixed‑Term Contracts, 
 ---
 
 
-[more](myfile2.md)
+[Click for More Details](myfile2.md){: .btn .btn--info .btn--large}
