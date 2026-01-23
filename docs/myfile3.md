@@ -3,7 +3,14 @@ layout: single
 title: "Technical Validation & Architecture Matrix"
 author_profile: true
 date created: Friday, January 23rd 2026, 4:49:21 pm
-date modified: Friday, January 23rd 2026, 4:50:58 pm
+date modified: Friday, January 23rd 2026, 5:27:57 pm
+
+main:
+  - title: "Home"
+    url: /
+  - title: "Technical Matrix"
+    url: /myfile3/
+
 ---
 
 ## **Engineering Core Competencies**
@@ -17,12 +24,13 @@ date modified: Friday, January 23rd 2026, 4:50:58 pm
 
 ---
 
+{: .notice--info}
 ## **Technical Toolchain**
 
-{% appointment %}
+
 **Automation & Data:** Python stack (Pandas, NumPy, Pytest, Plotly, PyVISA).  
 **Embedded:** ARM Toolchains, Bare-Metal C, Real-time systems.  
 **Hardware:** Precision schematics, High-speed signal integrity.
-{% endappointment %}
+
 
 [Return to Home]({{ '/' | relative_url }}){: .btn .btn--info}

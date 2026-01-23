@@ -1,38 +1,34 @@
 ---
 layout: single
-
-
+title: "Goat Mountain Semiconductor"
 header:
   overlay_image: /assets/images/bg_wide.png
-  overlay_filter: 0.3 # This ensures your name is readable over the mountain
+  overlay_filter: 0.3 
+  caption: "An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below." # This puts the text under the ibex
   actions:
     - label: "View Technical Matrix"
-      url: "/myfile3.html"
-    
+      url: "/myfile3/"
+date created: Wednesday, January 21st 2026, 3:45:57 am
+date modified: Friday, January 23rd 2026, 5:25:33 pm
+---
 
-date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Friday, January 23rd 2026, 5:11:00 pm
-title: "Goat Mountain Semiconductor"
-
-layout: single
-title: "Goat Mountain Semiconductor"
-description: Precision Electronics, Mixed-signal, Validation, Architecture, Products & Systems
-keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
-author: Theo Hatzis
-header:
-  overlay_image: assets/images/bg_wide.png # Removed leading slash
-  overlay_filter: 0.3
-  actions:
-    - label: "View Technical Matrix"
-      url: "/myfile3/" # Use the permalink, not the .html extension
-
+## Theo Hatzis
+### Senior Electronics Architect & Semiconductor Validation Specialist  
+ _“Der Fuchs” — the fox who finds the flaw no one else sees_
 
 ---
 
-
-An Ibex perched on a mountain cliff at sunset, watching the Fuchs working the hard ground below.
-
+## **About Me**
+... (your text)
 ---
+
+
+![Ibex perched on a mountain](assets/images/bg_wide.png){: .align-full}
+{: .text-center}
+*An Ibex perched on a mountain cliff at sunset, watching the Fuchs working the hard ground below.*
+
+
+
 
 ## Theo Hatzis
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
