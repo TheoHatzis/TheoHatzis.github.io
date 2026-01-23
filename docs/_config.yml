@@ -1,14 +1,13 @@
+theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # 'air' is clean/pro; other options: 'dirt', 'sunrise', 'dark'
-site_navigation: main
+minimal_mistakes_skin: "air"
 
-# Site Settings
 title: "Goat Mountain Semiconductor"
 name: "Theo Hatzis"
 bio: "Senior Electronics Architect — 'Der Fuchs'"
 location: "Thames Valley / Munich"
 
-# Sidebar Author Info
+
 author:
   name: "Theo Hatzis"
   bio: "Der Fuchs — finding the flaw no one else sees."
@@ -18,8 +17,8 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/yourprofile"
 
-# Site Navigation
+
 site_navigation: main 
 
-# Enable Clean URLs
+
 permalink: /:title/
