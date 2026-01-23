@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Goat Mountain Semiconductor"
 header:
   overlay_image: /assets/images/bg_wide.png
