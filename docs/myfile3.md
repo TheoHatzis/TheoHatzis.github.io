@@ -17,8 +17,8 @@ date modified: Friday, January 23rd 2026, 6:28:05 pm
 
 ---
 
-{: .notice--info}
 ## **Technical Toolchain**
+{: .notice--info}
 
 
 **Automation & Data:** Python stack (Pandas, NumPy, Pytest, Plotly, PyVISA).  
