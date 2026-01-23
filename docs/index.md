@@ -1,5 +1,9 @@
 ---
-layout: single
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
 title: "Goat Mountain Semiconductor"
 header:
   overlay_image: /assets/images/bg_wide.png
