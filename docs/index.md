@@ -8,8 +8,6 @@ header:
   actions:
     - label: "View Technical Matrix"
       url: "/myfile3/"
-date created: Wednesday, January 21st 2026, 3:45:57 am
-date modified: Friday, January 23rd 2026, 6:25:17 pm
 ---
 
 ## Theo Hatzis
