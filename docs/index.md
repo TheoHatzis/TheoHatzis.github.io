@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "'Goat Mountain Semiconductor'"
 description: Precision Electronics, Mixed-signal, Validation, Architecture, Products & Systems
 
