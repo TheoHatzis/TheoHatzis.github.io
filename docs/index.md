@@ -7,7 +7,7 @@ header:
   caption: '"An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below." 
   actions:
     - label: "View Technical Matrix"
-      url: "/myfile3/"
+    - url: "/myfile3/"
 ---
 
 ## Theo Hatzis
