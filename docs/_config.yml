@@ -1,5 +1,6 @@
-theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
 
 title: "Goat Mountain Semiconductor"
 name: "Theo Hatzis"
