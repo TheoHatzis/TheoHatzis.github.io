@@ -1,7 +1,10 @@
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
+# Essential for Minimal Mistakes to find your navigation
+include: ["_data"]
 title: "Goat Mountain Semiconductor"
 name: "Theo Hatzis"
 bio: "Senior Electronics Architect — 'Der Fuchs'"
