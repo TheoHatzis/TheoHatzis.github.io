@@ -2,7 +2,6 @@
 layout: single
 
 
-title: "Goat Mountain Semiconductor"
 header:
   overlay_image: /assets/images/bg_wide.png
   overlay_filter: 0.3 # This ensures your name is readable over the mountain
@@ -10,15 +9,27 @@ header:
     - label: "View Technical Matrix"
       url: "/myfile3.html"
     
-description: Precision Electronics, Mixed-signal, Validation, Architecture, Products & Systems
 
+date created: Tuesday, January 20th 2026, 11:59:18 am
+date modified: Friday, January 23rd 2026, 5:11:00 pm
+title: "Goat Mountain Semiconductor"
+
+layout: single
+title: "Goat Mountain Semiconductor"
+description: Precision Electronics, Mixed-signal, Validation, Architecture, Products & Systems
 keywords: [semiconductors validation, Mixed Signal,  Electronics Design, Integration, Architecture & Products, MedTech & SciTech Apps, Critical Infrastructure, Batteries, Students Advisor]
 author: Theo Hatzis
-date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Friday, January 23rd 2026, 5:00:37 pm
+header:
+  overlay_image: assets/images/bg_wide.png # Removed leading slash
+  overlay_filter: 0.3
+  actions:
+    - label: "View Technical Matrix"
+      url: "/myfile3/" # Use the permalink, not the .html extension
+
+
 ---
 
-![](assets/images/bg_wide.png){: .full}
+
 An Ibex perched on a mountain cliff at sunset, watching the Fuchs working the hard ground below.
 
 ---

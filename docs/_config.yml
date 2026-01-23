@@ -1,5 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air" # 'air' is clean/pro; other options: 'dirt', 'sunrise', 'dark'
+site_navigation: main
 
 # Site Settings
 title: "Goat Mountain Semiconductor"
