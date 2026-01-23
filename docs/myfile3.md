@@ -3,7 +3,7 @@ layout: single
 title: "Technical Validation & Architecture Matrix"
 author_profile: true
 date created: Friday, January 23rd 2026, 4:49:21 pm
-date modified: Friday, January 23rd 2026, 5:27:57 pm
+date modified: Friday, January 23rd 2026, 6:06:34 pm
 
 main:
   - title: "Home"
@@ -33,4 +33,3 @@ main:
 **Hardware:** Precision schematics, High-speed signal integrity.
 
 
-[Return to Home]({{ '/' | relative_url }}){: .btn .btn--info}

@@ -1,38 +1,24 @@
 ---
 layout: single
-title: "Goat Mountain Semiconductor"
+title: index
 header:
   overlay_image: /assets/images/bg_wide.png
   overlay_filter: 0.3 
-  caption: "An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below." # This puts the text under the ibex
+  caption: '"An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below." # This puts the text under the ibex'
   actions:
     - label: "View Technical Matrix"
       url: "/myfile3/"
 date created: Wednesday, January 21st 2026, 3:45:57 am
-date modified: Friday, January 23rd 2026, 5:25:33 pm
+date modified: Friday, January 23rd 2026, 6:10:33 pm
 ---
 
 ## Theo Hatzis
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
  _“Der Fuchs” — the fox who finds the flaw no one else sees_
-
----
 
 ## **About Me**
-... (your text)
----
 
-
-![Ibex perched on a mountain](assets/images/bg_wide.png){: .align-full}
-{: .text-center}
-*An Ibex perched on a mountain cliff at sunset, watching the Fuchs working the hard ground below.*
-
-
-
-
-## Theo Hatzis
-### Senior Electronics Architect & Semiconductor Validation Specialist  
- _“Der Fuchs” — the fox who finds the flaw no one else sees_
+I focus on hardware engineering, specialising in semiconductor validation, mixed-signal power systems, and system-level triage...
 
 ---
 
@@ -51,7 +37,6 @@ I operate flexibly across SOW‑aligned engagements and Fixed‑Term Contracts, 
 
 ---
 
-
 ## **Core Expertise**
 
 - **Post‑Silicon Validation:** PMIC/PMU, PVT corners, and silicon‑to‑model correlation.
@@ -64,5 +49,4 @@ I operate flexibly across SOW‑aligned engagements and Fixed‑Term Contracts, 
 
 ---
 
-
-[Click for More Details](myfile3.md) {: .btn .btn--info .btn--large}
+[Click for More Details]({{ '/myfile3/' | relative_url }}){: .btn .btn--info .btn--large}
