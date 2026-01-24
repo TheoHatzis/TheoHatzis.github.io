@@ -39,6 +39,18 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 * **Automation & Data:** Python-driven analysis (PyVISA, Pandas, NumPy, Pytest).
 * **Mentorship:** Guiding students and junior engineers through the complexities of the semiconductor landscape.
 
+## Interests & Capabilities
+---
+
+### System-Level Architecting
+* **Semiconductor Lifecycle:** From initial silicon bring-up to high-volume validation, ensuring the "Grace of Precision" at every stage.
+* **Complex Power Sequencing:** Designing robust architectures for multi-rail SoCs where timing and noise floor are critical.
+
+### Extracurricular & Domain Deep-Dives
+* **Battery Management Systems (BMS):** Applying architectural oversight to energy storage and power density challenges.
+* **Validation Tooling:** Developing the "Fuchs" methodology—bespoke scripts and hardware setups that find the failures others miss.
+* **Mentorship:** Translating complex architectural requirements into actionable validation plans for cross-functional teams.
+
 ---
 
 [Click for More Details]({{ '/myfile3/' | relative_url }}){: .btn .btn--info .btn--large}
