@@ -1,8 +1,14 @@
 ---
 layout: single
 title: "Technical Validation & Architecture Matrix"
+permalink: /docs/myfile3/
 author_profile: true
 ---
+
+
+
+
+
 
 ## **Engineering Core Competencies**
 

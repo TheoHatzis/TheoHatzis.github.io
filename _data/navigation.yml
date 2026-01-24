@@ -2,7 +2,6 @@ main:
   - title: "Home"
     url: "/"
   - title: "Technical Matrix"
-    url: "/myfile3/"
-  - title: "Expertise" # A folder/category for the others
+    url: "/docs/myfile3/"
+  - title: "Expertise"
     url: "/"
-
