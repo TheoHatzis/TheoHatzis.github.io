@@ -11,14 +11,17 @@ name: "Theo Hatzis"
 bio: "Senior Electronics Architect — 'Der Fuchs"
 location: "Thames Valley / Munich"
 
-# author:
-#  name: "Theo Hatzis"
-#  bio: "Der Fuchs — finding the flaw no one else sees."
-#  location: "UK & Germany"
-#  links:
-#    - label: "LinkedIn"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://linkedin.com/in/yourprofile"
+author:
+  name: "Theo Hatzis"
+  bio: "Der Fuchs — finding the flaw no one else sees."
+  location: "UK & Germany"
+
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+   avatar: "/assets/images/ibex_profile.png" # If you have a square version of the Ibex
+   bio: "Der Fuchs — finding the flaw no one else sees."
 
 author:
   name: "Theoharis (Theo) Hatzis"
