@@ -1,15 +1,11 @@
-url: "https://TheoHatzis.github.io" # Your main domain
-baseurl: "" # Keep this empty since you are at the root
-
-
-
-
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
+url: "https://TheoHatzis.github.io"
+baseurl: ""
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
 
 # Essential for Minimal Mistakes to find your navigation
 include: ["_data", "assets"]
