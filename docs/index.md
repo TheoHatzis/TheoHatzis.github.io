@@ -1,13 +1,22 @@
 ---
 layout: single
 title: "Goat Mountain Semiconductor"
+# The excerpt creates the 'tall' header to help prevent cropping the valley
+excerpt: "Senior Electronics Architect — 'Der Fuchs' <br/><br/>"
 header:
-  overlay_image: /assets/images/bg_wide.png
-  overlay_filter: 0.1
+  image: /assets/images/bg_wide.png # Using 'image' for Cayman-style full visibility
+  teaser: /assets/images/bg_wide.png # Thumbnail for sidebars and social sharing
+  overlay_filter: 0.1 # Minimal tint to preserve the setting sun colors
   caption: "An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below."
   actions:
-    - label: "View Technical Matrix"
+    - label: "Technical Matrix"
       url: "/myfile3/"
+    - label: "Download CV"
+      url: "/cv.pdf"
+# --- Metaphor Documentation ---
+# Ibex: The Orchestrator/Manager watching from above.
+# Fox: The Engineer (Der Fuchs) at the coal face/valley.
+# Goatherd: The foundational wisdom and experience.
 ---
 
 
