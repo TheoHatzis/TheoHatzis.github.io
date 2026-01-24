@@ -3,7 +3,7 @@ layout: single
 title: "Goat Mountain Semiconductor"
 header:
   overlay_image: /assets/images/bg_wide.png
-  overlay_filter: 0.5
+  overlay_filter: 0.1
   caption: "An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below."
   actions:
     - label: "View Technical Matrix"
