@@ -17,10 +17,24 @@ author:
   location: "UK & Germany"
   avatar: "/assets/images/Gemini_Generated_Image_q5u32zq5u32zq5u3.png"
 
+
+
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+    - label: "Technical Matrix"
+      url: "/myfile3/"
+
+
+    - label: "Architecture"
+      url: "/"
+    - label: "Validation"
+      url: "/"
+    - label: "Power Systems"
+      url: "/"
+    - label: "Batteries"
+      url: "/"
 
 
 # Masthead Navigation
