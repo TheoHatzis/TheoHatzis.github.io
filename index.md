@@ -37,10 +37,6 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 * **Mentorship:** Guiding students and junior engineers through the complexities of the semiconductor landscape.
 
 
-
-## Interests & Capabilities
----
-
 ## Interests & Capabilities
 ---
 
@@ -52,8 +48,6 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 * **Power & Energy Systems:** Advanced validation of GaN/SiC topologies, multiphase DCDC converters, and BMS state-of-health (SoH) characterisation using Electrochemical Impedance Spectroscopy (EIS).
 * **Safety-Critical Systems:** Navigating complex regulatory landscapes including ISO 26262 (Automotive), ISO 13485 (Medical), and TRG 1068 (UK Infrastructure).
 * **Multidisciplinary Diagnostic Intuition:** Leveraging a foundation in Physical Chemistry and Spectroscopy to resolve root-cause failures in MedTech, Photonics (SPAD/dToF), and Scientific Instrumentation.
-
-
 
 
 [Click for More Details]({{ 'docs/myfile3/' | relative_url }}){: .btn .btn--info .btn--large}
