@@ -14,9 +14,9 @@ header:
     - label: "Download CV"
       url: "/cv.pdf"
 # --- Metaphor Documentation ---
-# Ibex: The Orchestrator/Manager watching from above.
-# Fox: The Engineer (Der Fuchs) at the coal face/valley.
-# Goatherd: The foundational wisdom and experience.
+Ibex: The Orchestrator/Manager watching from above.
+Fox: The Engineer (Der Fuchs) at the coal face/valley.
+Goatherd: The foundational wisdom and experience.
 ---
 
 
