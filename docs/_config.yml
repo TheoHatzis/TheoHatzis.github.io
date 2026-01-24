@@ -11,15 +11,18 @@ name: "Theo Hatzis"
 bio: "Senior Electronics Architect — 'Der Fuchs"
 location: "Thames Valley / Munich"
 
-author:
-  name: "Theo Hatzis"
-  bio: "Der Fuchs — finding the flaw no one else sees."
-  location: "UK & Germany"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+# author:
+#  name: "Theo Hatzis"
+#  bio: "Der Fuchs — finding the flaw no one else sees."
+#  location: "UK & Germany"
+#  links:
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://linkedin.com/in/yourprofile"
 
+author:
+  name: "Theoharis (Theo) Hatzis"
+  bio: "Senior Electronics Architect — The Grace of Precision"
 
 site_navigation: main 
 
