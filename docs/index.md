@@ -4,14 +4,14 @@ author_profile: true
 title: "Goat Mountain Semiconductor"
 excerpt: "The Ibex: An overseer on the heights, watching the clever Fuchs at the coalface. <br/><br/>"
 header:
- image: /assets/images/bg_wide.png
- teaser: /assets/images/bg_wide.png
- overlay_filter: 0.1
- caption: "The High Perch: Architectural oversight meets technical intuition."
- actions:
-  - label: "Technical Matrix"
+  image: /assets/images/bg_wide.png
+  teaser: /assets/images/bg_wide.png
+  overlay_filter: 0.1
+  caption: "The High Perch: Architectural oversight meets technical intuition."
+  actions:
+    - label: "Technical Matrix"
       url: "/myfile3/"
-  - label: "Download CV"
+    - label: "Download CV"
       url: "/cv.pdf"
 ---
 
