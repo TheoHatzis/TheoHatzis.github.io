@@ -1,8 +1,7 @@
-
 main:
   - title: "Home"
     url: "/"
   - title: "Technical Matrix"
     url: "/myfile3/"
-  - title: "Architecture"
+  - title: "Expertise" # A folder/category for the others
     url: "/"

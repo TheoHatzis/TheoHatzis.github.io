@@ -30,8 +30,10 @@ author:
     - label: "Validation"
       url: "/"
     - label: "Power Systems"
+      icon: "fas fa-fw fa-bolt"
       url: "/"
     - label: "Batteries"
+      icon: "fas fa-fw fa-car-battery"
       url: "/"
 
 
