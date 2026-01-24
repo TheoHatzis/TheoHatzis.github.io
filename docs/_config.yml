@@ -23,7 +23,10 @@ author:
       url: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
 
 
-
+# Masthead Navigation
+masthead_title: "Goat Mountain Semiconductor"
+# This tells the theme to use the 'main' list from your navigation.yml
+main_menu: true
 
 
 site_navigation: main 
