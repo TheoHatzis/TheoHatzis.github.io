@@ -12,7 +12,7 @@ header:
     - label: "Technical Matrix"
       url: "/myfile3/"
     - label: "Download CV"
-      url: "/THEO HATZIS CV.pdf"
+      url: "/THEO%20HATZIS%20CV.pdf"
 ---
 
 {: .notice--info}
