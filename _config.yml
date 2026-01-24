@@ -1,12 +1,13 @@
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 url: "https://TheoHatzis.github.io"
 baseurl: ""
 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+
 
 include: ["_data", "assets"]
 title: "Goat Mountain Semiconductor"
