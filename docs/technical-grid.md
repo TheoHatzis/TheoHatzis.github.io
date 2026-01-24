@@ -1,7 +1,9 @@
 ---
-layout: default
-title: technical-grid
+layout: single
+title: "Technical Validation & Architecture Matrix"
 description: 'Specialist "Surge Capacity" Deliverables and Strategic Value Matrix'
+permalink: /docs/technical-grid/
+author_profile: true
 
 ---
 

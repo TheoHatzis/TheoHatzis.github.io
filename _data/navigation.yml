@@ -5,3 +5,5 @@ main:
     url: "/docs/myfile3/"
   - title: "Expertise"
     url: "/"
+  - title: "Technical-Grid"
+    url: "/docs/technical-grid"
