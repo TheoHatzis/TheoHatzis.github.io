@@ -2,8 +2,6 @@
 layout: default
 title: technical-grid
 description: 'Specialist "Surge Capacity" Deliverables and Strategic Value Matrix'
-date created: Tuesday, January 20th 2026, 11:59:18 am
-date modified: Tuesday, January 20th 2026, 1:56:14 pm
 ---
 
 # **TECHNICAL EXPERTISE & PROJECT DELIVERY MATRIX**
