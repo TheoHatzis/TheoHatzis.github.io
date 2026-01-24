@@ -1,13 +1,14 @@
+
 main:
   - title: "Home"
-    url: /
-  - title: "Technical Matrix" 
-    url: /myfile3/
+    url: "/"
+  - title: "Technical Matrix"
+    url: "/myfile3/"
   - title: "Architecture"
-    url: /#
+    url: "/"
   - title: "Validation"
-    url: /#
+    url: "/"
   - title: "Power Systems"
-    url: /#
+    url: "/"
   - title: "Batteries"
-    url: /#
+    url: "/"
