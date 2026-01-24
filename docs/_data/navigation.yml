@@ -6,9 +6,4 @@ main:
     url: "/myfile3/"
   - title: "Architecture"
     url: "/"
-  - title: "Validation"
-    url: "/"
-  - title: "Power Systems"
-    url: "/"
-  - title: "Batteries"
-    url: "/"
+  
