@@ -38,6 +38,7 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 
 
 ## Interests & Capabilities
+
 ---
 
 ### **High-Altitude Architectural Oversight**
