@@ -1,10 +1,14 @@
 ---
 layout: single
 title: "Technical Validation & Architecture Matrix"
+permalink: /docs/myfile3/
 author_profile: true
-date created: Friday, January 23rd 2026, 4:49:21 pm
-date modified: Friday, January 23rd 2026, 6:49:54 pm
 ---
+
+
+
+
+
 
 ## **Engineering Core Competencies**
 

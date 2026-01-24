@@ -1,0 +1,57 @@
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+url: "https://TheoHatzis.github.io"
+baseurl: ""
+
+
+
+include: ["_data", "assets"]
+title: "Goat Mountain Semiconductor"
+name: "Theo Hatzis"
+# Use single quotes inside double quotes to avoid the parser error
+bio: "Senior Electronics Architect — 'Der Fuchs'"
+location: "Thames Valley / Munich"
+
+author:
+  name: "Theoharis (Theo) Hatzis"
+  bio: "Senior Electronics Architect — The Grace of Precision Semiconductor Testing"
+  location: "UK & Germany"
+  avatar: "/assets/images/Gemini_Generated_Image_q5u32zq5u32zq5u3.png"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+    - label: "Technical Matrix"
+      icon: "fas fa-fw fa-microchip"
+      url: "docs/myfile3/"
+    - label: "Architecture"
+      icon: "fas fa-fw fa-drafting-compass"
+      url: "/"
+    - label: "Validation"
+      icon: "fas fa-fw fa-check-double"
+      url: "/"
+    - label: "Power Systems"
+      icon: "fas fa-fw fa-bolt"
+      url: "/"
+    - label: "Batteries"
+      icon: "fas fa-fw fa-car-battery"
+      url: "/"
+    - label: "Technical Grid"
+      icon: "fas fa-fw fa-microchip"
+      url: "docs/technical-grid"
+
+# Navigation Settings
+masthead_title: "Goat Mountain Semiconductor"
+main_menu: true
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
