@@ -12,20 +12,19 @@ bio: "Senior Electronics Architect — 'Der Fuchs"
 location: "Thames Valley / Munich"
 
 author:
-  name: "Theo Hatzis"
-  bio: "Der Fuchs — finding the flaw no one else sees."
+  name: "Theoharis (Theo) Hatzis"
+  bio:  "Senior Electronics Architect — The Grace of Precision"
   location: "UK & Germany"
+  avatar: "/assets/images/ibex_profile.png" # If you have a square version of the Ibex
 
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
-   avatar: "/assets/images/ibex_profile.png" # If you have a square version of the Ibex
-   bio: "Der Fuchs — finding the flaw no one else sees."
 
-author:
-  name: "Theoharis (Theo) Hatzis"
-  bio: "Senior Electronics Architect — The Grace of Precision"
+
+
+
 
 site_navigation: main 
 
