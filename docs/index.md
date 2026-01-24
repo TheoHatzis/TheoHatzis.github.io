@@ -29,7 +29,7 @@ _“Der Fuchs” — the fox who finds the flaw no one else sees_
 ## **About Me**
 I focus on hardware engineering, specializing in semiconductor validation, mixed-signal power systems, and system-level triage. Over two decades, I have built my career across the Munich semiconductor ecosystem, Denmark, and the Thames Valley 'Silicon Hub' in the UK.
 
-During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”** — *the fox who finds the flaw no one else sees*. This reflects a diagnostic intuition and creative problem-solving, and the delivery of elegant solutions and applications under hard real-time pressures.
+During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”** — *the fox who finds the flaw no one else sees*. This reflects a diagnostic intuition and creative problem-solving, and the delivery of elegant solutions and applications under hard real-time RMS pressures.
 
 ---
 
