@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 
 # Essential for Minimal Mistakes to find your navigation
-include: ["_data"]
+include: ["_data", "assets"]
 title: "Goat Mountain Semiconductor"
 name: "Theo Hatzis"
 bio: "Senior Electronics Architect — "Der Fuchs"
