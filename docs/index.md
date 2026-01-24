@@ -1,6 +1,7 @@
 
 ---
 layout: single
+author_profile: true
 title: "Goat Mountain Semiconductor"
 # This text will sit high up, near the Ibex
 excerpt: "The Ibex: An overseer on the heights, watching the clever Fuchs at the coalface. <br/><br/>"
@@ -16,16 +17,17 @@ header:
       url: "/cv.pdf"
 ---
 
-
-## Theo Hatzis
-### Senior Electronics Architect & Semiconductor Validation Specialist  
-_“Der Fuchs” — the fox who finds the flaw no one else sees_
-
 {: .notice--info}
 **The Summit View:** From the high-altitude perspective of an Architect, 
 the goal is not just to see the circuit, but to understand the entire ecosystem. 
 As the Ibex watches the valley, I oversee the intersection of hardware, 
 software, and power to ensure architectural grace.
+
+
+## Theo Hatzis
+### Senior Electronics Architect & Semiconductor Validation Specialist  
+_“Der Fuchs” — the fox who finds the flaw no one else sees_
+
 
 
 ---
