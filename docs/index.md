@@ -1,14 +1,15 @@
 ---
-layout: default
+layout: single
 title: "Goat Mountain Semiconductor"
 header:
   overlay_image: /assets/images/bg_wide.png
   overlay_filter: 0.5
-  caption: "An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below." 
+  caption: "An Ibex perched on a mountain cliff at sunset, watching the Fuchs working below."
   actions:
     - label: "View Technical Matrix"
-    - url: "/myfile3/"
+      url: "/myfile3/"
 ---
+
 
 ## Theo Hatzis
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
