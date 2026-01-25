@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "CV"
-    url:
 
   - title: "Technical-Grid"
     url: "/docs/technical-grid"
