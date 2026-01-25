@@ -9,7 +9,7 @@ baseurl: ""
 
 
 include: ["_data", "assets"]
-title: "Goat Mountain Semiconductor"
+title: "Goat Mountain Semiconductor Solutions"
 name: "Theo Hatzis"
 # Use single quotes inside double quotes to avoid the parser error
 bio: "Senior Electronics Architect — 'Der Fuchs'"
@@ -49,7 +49,7 @@ author:
         url: "/docs/specialist-domains/"
 
 # Navigation Settings
-masthead_title: "Goat Mountain Semiconductor Solutions"
+masthead_title: "Goat Mountain Semiconductor"
 main_menu: true
 
 defaults:
