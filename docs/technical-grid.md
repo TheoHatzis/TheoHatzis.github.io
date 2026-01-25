@@ -2,12 +2,8 @@
 layout: single
 title: "Technical Validation & Architecture Matrix"
 description: 'Specialist "Surge Capacity" Deliverables and Strategic Value Matrix'
-<<<<<<< HEAD
-=======
 permalink: /docs/technical-grid/
 author_profile: true
-
->>>>>>> 9af760f3b7db7d370ac0dd054f36b036eeb6e978
 ---
 
 # **TECHNICAL EXPERTISE & PROJECT DELIVERY MATRIX**
