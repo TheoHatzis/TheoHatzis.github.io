@@ -36,6 +36,7 @@ author:
       - label: "Validation (🏗️)"
         icon: "fas fa-fw fa-check-double"
         url: "#!"
+        ## place a separator here
       - label: "Power Systems (🏗️)"
         icon: "fas fa-fw fa-bolt"
         url: "#!"
