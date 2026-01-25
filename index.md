@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Goat Mountain Semiconductor"
+title: "Goat Mountain Semiconductor Solutions"
 excerpt: "The Ibex: An overseer on the heights, watching the clever Fuchs at the coalface. <br/><br/>"
 header:
   image: /assets/images/bg_wide.png
