@@ -42,7 +42,7 @@ author:
       url: "/"
     - label: "Technical Grid"
       icon: "fas fa-fw fa-microchip"
-      url: "docs/technical-grid"
+      url: "technical-grid"
 
 # Navigation Settings
 masthead_title: "Goat Mountain Semiconductor"
