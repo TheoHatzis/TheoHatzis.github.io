@@ -32,7 +32,7 @@ author:
 
     - label: "Technical Grid"
       icon: "fas fa-fw fa-microchip"
-      url: "docs/technical-grid/"
+      url: "docs/technical-grid"
 
 
     - label: "Architecture"
