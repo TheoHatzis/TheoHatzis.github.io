@@ -5,12 +5,10 @@ plugins:
   - jekyll-include-cache
 url: "https://TheoHatzis.github.io"
 baseurl: ""
-
-
-
 include: ["_data", "assets"]
-title: "Goat Mountain Semiconductor Solutions"
-name: "Theo Hatzis"
+title: "Goat Mountain Semiconductor"
+
+name: "Goat Mountain Semiconductor Solutions"
 # Use single quotes inside double quotes to avoid the parser error
 bio: "Senior Electronics Architect — 'Der Fuchs'"
 location: "Thames Valley / Munich"
