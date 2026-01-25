@@ -3,7 +3,6 @@ minimal_mistakes_skin: "air"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-
 url: "https://TheoHatzis.github.io"
 baseurl: ""
 
@@ -22,31 +21,29 @@ author:
   location: "UK & Germany"
   avatar: "/assets/images/Gemini_Generated_Image_q5u32zq5u32zq5u3.png"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/theo-hatzis"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin"
+        url: "https://www.linkedin.com/in/theo-hatzis"
 
-    # - label: "Technical Matrix"   # deprecated
-    #   icon: "fas fa-fw fa-microchip"
-    #  url: "docs/myfile3/"
+      - label: "Technical Grid"
+        icon: "fas fa-fw fa-microchip"
+        url: "/docs/technical-grid/"
 
-    - label: "Technical Grid"
-      icon: "fas fa-fw fa-microchip"
-      url: "docs/technical-grid/"
+      # --- THE PLACEHOLDERS ---
+      - label: "Architecture (🏗️)"
+        icon: "fas fa-fw fa-drafting-compass"
+        url: "#!" # Prevents return to home
+      - label: "Validation (🏗️)"
+        icon: "fas fa-fw fa-check-double"
+        url: "#!"
+      - label: "Power Systems (🏗️)"
+        icon: "fas fa-fw fa-bolt"
+        url: "#!"
+      - label: "Batteries (🏗️)"
+        icon: "fas fa-fw fa-car-battery"
+        url: "#!"
 
 
-    - label: "Architecture"
-      icon: "fas fa-fw fa-drafting-compass"
-      url: "/"
-    - label: "Validation"
-      icon: "fas fa-fw fa-check-double"
-      url: "/"
-    - label: "Power Systems"
-      icon: "fas fa-fw fa-bolt"
-      url: "/"
-    - label: "Batteries"
-      icon: "fas fa-fw fa-car-battery"
-      url: "/"
 
 # Navigation Settings
 masthead_title: "Goat Mountain Semiconductor Solutions"

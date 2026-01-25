@@ -5,6 +5,8 @@ description: 'Specialist "Surge Capacity" Deliverables and Strategic Value Matri
 permalink: /docs/technical-grid/
 author_profile: true
 ---
+[Download Technical Matrix (PDF)]({{ "/assets/docs/THEO_HATZIS_TECH_GRID.pdf" | relative_url }}){: .btn .btn--info .btn--large}
+---
 
 # **TECHNICAL EXPERTISE & PROJECT DELIVERY MATRIX**
 
