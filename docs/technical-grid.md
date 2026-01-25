@@ -22,4 +22,11 @@ author_profile: true
 ### **Engagement Standards**
 All technical deliverables are mapped to specific **Acceptance Criteria (AC)** defined at the start of the engagement. Whether operating under an **SOW** or **FTC**, I provide structured updates, validation reports, and raw data correlation to ensure full transparency of the "Silicon to System" status.
 
+---
+### **EMEA Engagement & Mobility**
+* **Dual Nationality (UK/EU):** Full mobility for on-site engagements across the UK and EU. Currently finalizing Greek passport documentation to further streamline cross-border deployments.
+* **Tax Compliance:** Fully registered for VAT and Income Tax in Germany (2024/25 filings active) and operating via a compliant PSC/SOW framework in the UK (Outside IR35).
+* **Coverage:** Available for Specialist Surge Capacity in the UK, DACH region, and wider EMEA markets.
+
+
 [Back to Home](/)
