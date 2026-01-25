@@ -36,15 +36,17 @@ author:
       - label: "Validation (🏗️)"
         icon: "fas fa-fw fa-check-double"
         url: "#!"
-        ## place a separator here
+      - label: "─── Specialist Ops ───"
+        url: "#!"
       - label: "Power Systems (🏗️)"
         icon: "fas fa-fw fa-bolt"
         url: "#!"
       - label: "Batteries (🏗️)"
         icon: "fas fa-fw fa-car-battery"
         url: "#!"
-
-
+      - label: "Power Systems (🏗️)"
+        icon: "fas fa-fw fa-bolt"
+        url: "/docs/specialist-domains/"
 
 # Navigation Settings
 masthead_title: "Goat Mountain Semiconductor Solutions"
