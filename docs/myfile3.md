@@ -21,12 +21,16 @@ author_profile: true
 
 ---
 
+
+
+
 ## **Technical Toolchain**
 {: .notice--info}
 
 
 **Automation & Data:** Python stack (Pandas, NumPy, Pytest, Plotly, PyVISA).  
 **Embedded:** ARM Toolchains, Bare-Metal C, Real-time systems.  
-**Hardware:** Precision schematics, High-speed signal integrity.
+**Hardware:** Precision schematics, High-speed signal integrity. Design Management & CTO
+
 
 

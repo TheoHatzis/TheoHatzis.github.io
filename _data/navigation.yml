@@ -1,9 +1,19 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Technical Matrix"
-    url: "/docs/myfile3/"
-  - title: "Expertise"
-    url: "/"
+
   - title: "Technical-Grid"
     url: "/docs/technical-grid"
+
+  - title: "CV"
+    url: "THEO HATZIS CV.pdf"
+
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/theo-hatzis"
+
+
+    # - title: "Expertise"          <-- This is now inactive
+    #   url: "/docs/expertise/"    <-- and won't show in the topbar
+
+    # - title: "Technical Matrix"
+    #   url: "/docs/myfile3/"
