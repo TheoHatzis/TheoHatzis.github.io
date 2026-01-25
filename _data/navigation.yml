@@ -10,6 +10,8 @@ main:
 
   - title: "LinkedIn"
     url: "https://www.linkedin.com/in/theo-hatzis"
+
+
     # - title: "Expertise"          <-- This is now inactive
     #   url: "/docs/expertise/"    <-- and won't show in the topbar
 
