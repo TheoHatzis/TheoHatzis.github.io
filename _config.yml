@@ -25,9 +25,16 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/theo-hatzis"
-    # - label: "Technical Matrix"
+
+    # - label: "Technical Matrix"   # deprecated
     #   icon: "fas fa-fw fa-microchip"
     #  url: "docs/myfile3/"
+
+    - label: "Technical Grid"
+      icon: "fas fa-fw fa-microchip"
+      url: "docs/technical-grid/"
+
+
     - label: "Architecture"
       icon: "fas fa-fw fa-drafting-compass"
       url: "/"
@@ -40,12 +47,9 @@ author:
     - label: "Batteries"
       icon: "fas fa-fw fa-car-battery"
       url: "/"
-    - label: "Technical Grid"
-      icon: "fas fa-fw fa-microchip"
-      url: "technical-grid"
 
 # Navigation Settings
-masthead_title: "Goat Mountain Semiconductor"
+masthead_title: "Goat Mountain Semiconductor Solutions"
 main_menu: true
 
 defaults:
