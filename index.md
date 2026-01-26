@@ -8,7 +8,6 @@ header:
   teaser: /assets/images/bg_wide.png
   overlay_filter: 0.1
   caption: "The High Perch: Architectural oversight meets technical intuition."
-  Current Status: {{ site.availability }} | Location: {{ site.last_sighting }}
   actions:
     - label: "Technical Matrix"
       url: "/myfile3/"
