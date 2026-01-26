@@ -20,6 +20,8 @@ header:
 {: .notice--info}
 **The Summit View:** From the high-altitude perspective of an Architect, the goal is not just to see the circuit, but to understand the entire ecosystem. As the Ibex watches the valley, I oversee the intersection of hardware, software, and power to ensure architectural grace.
 
+> **Current Status:** {{ site.availability }}  
+> **Location:** {{ site.last_sighting }}
 
 ## Theo Hatzis
 ### Senior Electronics Architect & Semiconductor Validation Specialist  
