@@ -8,12 +8,15 @@ header:
   teaser: /assets/images/bg_wide.png
   overlay_filter: 0.1
   caption: "The High Perch: Architectural oversight meets technical intuition."
+  Current Status: {{ site.availability }} | Location: {{ site.last_sighting }}
   actions:
     - label: "Technical Matrix"
       url: "/myfile3/"
     - label: "Download CV"
       url: "/THEO%20HATZIS%20CV.pdf"
 ---
+
+
 
 {: .notice--info}
 **The Summit View:** From the high-altitude perspective of an Architect, the goal is not just to see the circuit, but to understand the entire ecosystem. As the Ibex watches the valley, I oversee the intersection of hardware, software, and power to ensure architectural grace.
