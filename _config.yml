@@ -57,3 +57,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+    
+# In _config.yml
+availability: "Active: Open for SOW/FTC in EMEA"
+last_sighting: "Wiltshire (BRS–OXF–BHX)"
