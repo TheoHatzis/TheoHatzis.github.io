@@ -1,0 +1,34 @@
+- client: "Logiicdev GmbH"
+  location: "Remote/Graz"
+  role: "Chief Adviser / CTO"
+  period: "2020–2025"
+  impact: "Led Horizon EU bids; mentored interns on AI/ML in battery projects; guided UAV HW design."
+  tags: ["BMS", "UAV", "AI/ML"]
+
+- client: "Texas Instruments"
+  location: "Freising"
+  role: "ISFET Characterisation"
+  period: "2023–2023"
+  impact: "Setup of custom microfluidics MEMS wafer-prober stations."
+  tags: ["MEMS", "Microfluidics", "Validation"]
+
+- client: "Renesas (ex-Dialog)"
+  location: "Germering"
+  role: "Contractor Mixed-Signal"
+  period: "2022–2023"
+  impact: "Validation & triage for high-efficiency BOOST converters."
+  tags: ["Mixed-Signal", "Boost Converters", "Triage"]
+
+- client: "Infineon AG"
+  location: "Am Campeon"
+  role: "Post-Si Component Verification"
+  period: "2021–2022"
+  impact: "Automotive-grade SiC/IGBT gate driver validation and FMEDA."
+  tags: ["SiC", "IGBT", "ISO 26262"]
+
+- client: "Intel Mobile Communications"
+  location: "Nürnberg"
+  role: "Senior Baseband Digital Design Engineer"
+  period: "2010–2014"
+  impact: "2G/3G/4G platform design verification & FAE support."
+  tags: ["Baseband", "4G/LTE", "SoC"]
