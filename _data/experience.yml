@@ -1,41 +1,83 @@
-- client: "Logiicdev GmbH"
-  location: "Remote/Graz"
-  role: "Chief Adviser / CTO"
-  period: "2020–2025"
-  impact: "Led Horizon EU bids; mentored interns on AI/ML in battery projects; guided UAV HW design."
-  tags: ["BMS", "UAV", "AI/ML"]
+- company: Logiicdev GmbH
+  role: Chief Adviser / CTO
+  location: Remote (Graz)
+  duration: 2020 — 2025
+  description: Led Horizon EU bids; Battery/Energy Systems, Post-basic BMS, AI/ML & UAV HW. Mentored interns on AI/ML in battery projects.
+  category: Semiconductor Hub
 
+- company: Texas Instruments
+  role: ISFET Characterisation Specialist
+  location: Freising, Germany
+  duration: 2023 — 2023
+  description: Setup of custom microfluidics MEMS wafer-prober stations for ISFET characterisation.
+  category: Semiconductor Hub
 
-- client: "Texas Instruments"
-  location: "Freising"
-  role: "ISFET Characterisation"
-  period: "2023–2023"
-  impact: "Setup of custom microfluidics MEMS wafer-prober stations."
-  tags: ["MEMS", "Microfluidics", "Validation"]
+- company: Renesas (ex-Dialog)
+  role: Contractor Mixed-Signal Specialist
+  location: Germering, Germany
+  duration: 2022 — 2023
+  description: Validation and triage for high-efficiency BOOST converters.
+  category: Semiconductor Hub
 
-- client: "Renesas (ex-Dialog)"
-  location: "Germering"
-  role: "Contractor Mixed-Signal"
-  period: "2022–2023"
-  impact: "Validation & triage for high-efficiency BOOST converters."
-  tags: ["Mixed-Signal", "Boost Converters", "Triage"]
+- company: Infineon AG
+  role: Post-Si Component Verification
+  location: Am Campeon, Munich
+  duration: 2021 — 2022
+  description: Automotive-grade SiC/IGBT gate driver & FMEDA.
+  category: Semiconductor Hub
 
-- client: "Infineon AG"
-  location: "Am Campeon"
-  role: "Post-Si Component Verification"
-  period: "2021–2022"
-  impact: "Automotive-grade SiC/IGBT gate driver validation and FMEDA."
-  tags: ["SiC", "IGBT", "ISO 26262"]
+- company: Infineon AG
+  role: Embedded T&V Engineer
+  location: Am Campeon, Munich
+  duration: 2020 — 2021
+  description: FMCW radar embedded validation in an Agile/Bare-Metal environment.
+  category: Semiconductor Hub
 
-- client: "Infineon AG"
-  location: "Am Campeon"
-  role: "Post-Si Component Verification"
-  period: "2021-2022"
-  impact: "Automotive-grade SiC/IGBT gate driver validation and FMEDA."
-  tags: ["SiC", "IGBT", "ISO 26262"]
-- client: "Intel Mobile Communications"
-  location: "Nuremberg"
-  role: "Senior Baseband Digital Design Engineer"
-  period: "2010-2014"
-  impact: "2G/3G/4G platform design verification and FAE support."
-  tags: ["Baseband", "4G/LTE", "SoC"]
+- company: Texas Instruments
+  role: Validation Expert
+  location: Freising, Germany
+  duration: 2018 — 2020
+  description: Low-noise, dynamic validation for high-performance DCDC stages.
+  category: Semiconductor Hub
+
+- company: Dialog Semiconductor
+  role: Evaluation/Validation Engineer
+  location: Germering, Germany
+  duration: 2018 — 2019
+  description: Mixed-Signal PMIC (Buck DCDC) evaluation on key milestones.
+  category: Semiconductor Hub
+
+- company: Texas Instruments
+  role: Validation Engineer
+  location: Freising, Germany
+  duration: 2014 — 2017
+  description: Managed DCDC and PMIC validation cycles for production release.
+  category: Semiconductor Hub
+
+- company: Intel Mobile Communications
+  role: Senior Baseband Digital Design Engineer
+  location: Nürnberg, Germany
+  duration: 2010 — 2014
+  description: 2G/3G/4G platform design verification & FAE support.
+  category: Semiconductor Hub
+
+- company: Ericsson/ST
+  role: Consultant HW Engineer
+  location: Nürnberg, Germany
+  duration: 2006 — 2009
+  description: Power systems on FPGA-based 3GPP development platforms; contributed to early 150 Mbit/s LTE phone demonstrators.
+  category: Semiconductor Hub
+
+- company: Texas Instruments
+  role: Baseband Engineer
+  location: Aalborg, Denmark
+  duration: 2004 — 2005
+  description: WTBU 2G and 3G platform validation.
+  category: Semiconductor Hub
+
+- company: Highways Agency / Various
+  role: UK Engineering Foundation
+  location: UK
+  duration: 1992 — 2003
+  description: Design Authority for M25 MIDAS infrastructure; Medical/Scientific electronics (ISO 13485); Mobile platform architecture at Psion/Sendo.
+  category: Engineering Foundation
