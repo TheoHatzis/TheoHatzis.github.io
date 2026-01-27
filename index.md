@@ -64,19 +64,26 @@ layout: home
 title: My Experience
 ---
 
-
-## ⏳ Professional Expertise: Semiconductor Hub
+# ⏳ Professional Expertise: Semiconductor Hub
 
 <div class="experience-list">
   {% for job in site.data.experience %}
-  <details class="exp-card" style="border: 1px solid #ddd; margin-bottom: 5px; border-radius: 4px;">
-    <summary style="padding: 10px; cursor: pointer; font-weight: bold; background: #fcfcfc;">
-      {{ job.duration }} | {{ job.company }}
+  <details class="exp-card" style="border-bottom: 1px solid #eee; margin-bottom: 15px; padding-bottom: 10px;">
+    <summary style="cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; font-size: 1.1em;">
+      <span style="color: #d35400; margin-right: 10px;">▸</span> {{ job.duration }} | {{ job.company }} — {{ job.role }}
     </summary>
-    <div style="padding: 10px; border-top: 1px solid #eee;">
-      <strong>{{ job.role }}</strong>
-      <p style="font-size: 0.9em; color: #444;">{{ job.description }}</p>
+    
+    <div style="padding: 15px 25px; color: #555; line-height: 1.6;">
+      <p style="margin-top: 0;"><strong>Location:</strong> {{ job.location }}</p>
+      <p>{{ job.description }}</p>
     </div>
   </details>
   {% endfor %}
 </div>
+
+<style>
+  /* Minimal Mistakes specific fixes */
+  .experience-list summary::-webkit-details-marker { display: none; }
+  .experience-list summary:hover { color: #d35400; }
+  .exp-card[open] summary { color: #d35400; border-bottom: 1px solid #f2f2f2; margin-bottom: 10px; }
+</style>
