@@ -65,26 +65,18 @@ title: My Experience
 ---
 
 
-# ⏳ Professional Expertise: Semiconductor Hub
-
-{% assign sorted_exp = site.data.experience | sort: "duration" | reverse %}
+## ⏳ Professional Expertise: Semiconductor Hub
 
 <div class="experience-list">
-  {% for job in sorted_exp %}
-  <details class="experience-item" style="margin-bottom: 1rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem;">
-    <summary style="cursor: pointer; font-weight: bold; list-style: none;">
-      <span style="color: #d35400;">▸</span> {{ job.duration }} | {{ job.company }} — {{ job.role }}
+  {% for job in site.data.experience %}
+  <details class="exp-card" style="border: 1px solid #ddd; margin-bottom: 5px; border-radius: 4px;">
+    <summary style="padding: 10px; cursor: pointer; font-weight: bold; background: #fcfcfc;">
+      {{ job.duration }} | {{ job.company }}
     </summary>
-    
-    <div style="padding: 10px 20px; color: #555;">
-      <p><strong>Location:</strong> {{ job.location }}</p>
-      <p>{{ job.description }}</p>
+    <div style="padding: 10px; border-top: 1px solid #eee;">
+      <strong>{{ job.role }}</strong>
+      <p style="font-size: 0.9em; color: #444;">{{ job.description }}</p>
     </div>
   </details>
   {% endfor %}
 </div>
-
-<style>
-  summary::-webkit-details-marker { display: none; }
-  details[open] summary span { transform: rotate(90deg); display: inline-block; }
-</style>
