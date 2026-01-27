@@ -1,3 +1,4 @@
+
 ---
 layout: single
 author_profile: true
@@ -14,7 +15,6 @@ header:
     - label: "Download CV"
       url: "/THEO%20HATZIS%20CV.pdf"
 ---
-
 
 
 {: .notice--info}
@@ -58,32 +58,28 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 [Click for More Details]({{ 'docs/myfile3/' | relative_url }}){: .btn .btn--info .btn--large}
 
 
-
----
-layout: home
-title: My Experience
----
-
-# ⏳ Professional Expertise: Semiconductor Hub
+## ⏳ Professional Expertise: Semiconductor Hub
 
 <div class="experience-list">
   {% for job in site.data.experience %}
-  <details class="exp-card" style="border-bottom: 1px solid #eee; margin-bottom: 15px; padding-bottom: 10px;">
-    <summary style="cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; font-size: 1.1em;">
-      <span style="color: #d35400; margin-right: 10px;">▸</span> {{ job.duration }} | {{ job.company }} — {{ job.role }}
+  <details class="exp-card" style="border-bottom: 1px solid #eee; margin-bottom: 1.5rem; padding-bottom: 1rem;">
+    <summary style="cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; font-size: 1.15em; outline: none;">
+      <span style="color: #d35400; margin-right: 12px; transition: transform 0.2s;" class="icon-toggle">▸</span> 
+      {{ job.duration }} | {{ job.company }} — {{ job.role }}
     </summary>
     
-    <div style="padding: 15px 25px; color: #555; line-height: 1.6;">
-      <p style="margin-top: 0;"><strong>Location:</strong> {{ job.location }}</p>
-      <p>{{ job.description }}</p>
+    <div style="padding: 1rem 2rem; color: #444; line-height: 1.6; background: rgba(0,0,0,0.02); border-radius: 4px; margin-top: 10px;">
+      <p style="margin-top: 0; margin-bottom: 0.5rem;"><strong>Location:</strong> {{ job.location }}</p>
+      <p style="margin-bottom: 0;">{{ job.description }}</p>
     </div>
   </details>
   {% endfor %}
 </div>
 
 <style>
-  /* Minimal Mistakes specific fixes */
   .experience-list summary::-webkit-details-marker { display: none; }
+  .experience-list summary { list-style: none; }
   .experience-list summary:hover { color: #d35400; }
-  .exp-card[open] summary { color: #d35400; border-bottom: 1px solid #f2f2f2; margin-bottom: 10px; }
+  .exp-card[open] summary { color: #d35400; }
+  .exp-card[open] .icon-toggle { transform: rotate(90deg); display: inline-block; }
 </style>
