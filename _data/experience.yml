@@ -1,60 +1,71 @@
 - company: Logiicdev GmbH (Remote, Graz)
   role: Chief Adviser / CTO
   duration: 2020 — 2025
+  location: Remote (Graz)
   description: Led Horizon EU bids; Battery/Energy Systems, Post‑basic BMS, AI/ML & UAV HW. Mentored interns on AI/ML in battery projects. Supported product design with India‑based teams.
 
 - company: Texas Instruments (Freising)
   role: ISFET Characterisation Specialist
   duration: 2023 — 2023
+  location: Freising, Germany
   description: Setup of custom microfluidics MEMS wafer‑prober stations.
 
 - company: Renesas (ex‑Dialog), Germering
   role: Contractor Mixed-Signal Specialist
   duration: 2022 — 2023
+  location: Germering, Germany
   description: Validation & triage for high‑efficiency BOOST converters.
 
 - company: Infineon AG (Am Campeon)
   role: Post‑Si Component Verification
   duration: 2021 — 2022
-  description: Automotive‑grade SiC/IGBT gate driver & FMEDA.
+  location: Automotive‑grade SiC/IGBT gate driver & FMEDA.
 
 - company: Infineon AG (Am Campeon)
   role: Embedded T&V Engineer
   duration: 2020 — 2021
+  location: Am Campeon, Munich
   description: FMCW radar embedded validation in an Agile/Bare‑Metal environment.
 
 - company: Texas Instruments (Freising)
   role: Validation Expert
   duration: 2018 — 2020
+  location: Freising, Germany
   description: Low‑noise, dynamic validation for high‑performance DCDC stages.
 
 - company: Dialog Semiconductor (Germering)
   role: Evaluation/Validation Engineer
   duration: 2018 — 2019
+  location: Germering, Germany
   description: Mixed‑Signal PMIC (Buck DCDC) evaluation on key milestones.
 
 - company: Texas Instruments (Freising)
   role: Validation Engineer
   duration: 2014 — 2017
+  location: Freising, Germany
   description: Managed DCDC and PMIC validation cycles for production release.
 
 - company: Intel Mobile Communications (Nürnberg)
   role: Senior Baseband Digital Design Engineer
   duration: 2010 — 2014
+  location: Nürnberg, Germany
   description: 2G/3G/4G platform design verification & FAE support.
 
 - company: Ericsson/ST (Nürnberg)
   role: Consultant HW
   duration: 2006 — 2009
-  description: Power systems on FPGA‑based 3GPP development platforms; contributed to early Ericsson 150 Mbit/s LTE phone demonstrator.
+  location: Nürnberg, Germany
+  description: Power systems on FPGA‑based 3GPP development platforms; 3‑phase core supplies and ideal‑diode OR‑ing.
 
 - company: Texas Instruments (Aalborg, Denmark)
   role: Baseband Engineer
   duration: 2004 — 2005
+  location: Aalborg, Denmark
   description: WTBU 2G and 3G platform validation.
 
-- company: UK Engineering Foundation (Highways Agency/Medical)
+- company: UK Engineering Foundation
   role: Design Authority & Lead Engineer
   duration: 1992 — 2003
+  location: UK
   description: M25 MIDAS infrastructure (TRG 1068); ISO 13485 medical diagnostics; Psion/Sendo ARM-based handhelds.
 
