@@ -30,9 +30,10 @@
 - client: "Intel Mobile Communications"
   location: "Nürnberg"
   role: "Senior Baseband Digital Design Engineer"
-  period: "2010–2014"
-  impact: "2G/3G/4G platform design verification & FAE support."
+  period: "2010-2014"
+  impact: "2G/3G/4G platform design verification and FAE support."
   tags: ["Baseband", "4G/LTE", "SoC"]
+
 
 
 <div class="timeline">
