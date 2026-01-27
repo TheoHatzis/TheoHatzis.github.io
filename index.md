@@ -56,3 +56,27 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 
 
 [Click for More Details]({{ 'docs/myfile3/' | relative_url }}){: .btn .btn--info .btn--large}
+
+
+
+---
+layout: home
+title: My Experience
+---
+
+# My Professional Timeline
+
+<div class="timeline">
+  {% for job in site.data.experience %}
+  <div class="timeline-item" style="border-left: 2px solid #d35400; padding-left: 20px; margin-bottom: 30px;">
+    <span style="font-family: monospace; color: #666;">{{ job.period }}</span>
+    <h3 style="margin-top: 5px;">{{ job.client }} <small style="font-weight: normal; color: #888;">— {{ job.role }}</small></h3>
+    <p>{{ job.impact }}</p>
+    <div class="tags">
+      {% for tag in job.tags %}
+        <span class="tech-tag" style="background: #eee; padding: 2px 8px; font-size: 0.8em; border-radius: 3px;">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
