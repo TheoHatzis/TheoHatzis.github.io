@@ -1,83 +1,60 @@
-- company: Logiicdev GmbH
+- company: Logiicdev GmbH (Remote, Graz)
   role: Chief Adviser / CTO
-  location: Remote (Graz)
   duration: 2020 — 2025
-  description: Led Horizon EU bids; Battery/Energy Systems, Post-basic BMS, AI/ML & UAV HW. Mentored interns on AI/ML in battery projects.
-  category: Semiconductor Hub
+  description: Led Horizon EU bids; Battery/Energy Systems, Post‑basic BMS, AI/ML & UAV HW. Mentored interns on AI/ML in battery projects. Supported product design with India‑based teams.
 
-- company: Texas Instruments
+- company: Texas Instruments (Freising)
   role: ISFET Characterisation Specialist
-  location: Freising, Germany
   duration: 2023 — 2023
-  description: Setup of custom microfluidics MEMS wafer-prober stations for ISFET characterisation.
-  category: Semiconductor Hub
+  description: Setup of custom microfluidics MEMS wafer‑prober stations.
 
-- company: Renesas (ex-Dialog)
+- company: Renesas (ex‑Dialog), Germering
   role: Contractor Mixed-Signal Specialist
-  location: Germering, Germany
   duration: 2022 — 2023
-  description: Validation and triage for high-efficiency BOOST converters.
-  category: Semiconductor Hub
+  description: Validation & triage for high‑efficiency BOOST converters.
 
-- company: Infineon AG
-  role: Post-Si Component Verification
-  location: Am Campeon, Munich
+- company: Infineon AG (Am Campeon)
+  role: Post‑Si Component Verification
   duration: 2021 — 2022
-  description: Automotive-grade SiC/IGBT gate driver & FMEDA.
-  category: Semiconductor Hub
+  description: Automotive‑grade SiC/IGBT gate driver & FMEDA.
 
-- company: Infineon AG
+- company: Infineon AG (Am Campeon)
   role: Embedded T&V Engineer
-  location: Am Campeon, Munich
   duration: 2020 — 2021
-  description: FMCW radar embedded validation in an Agile/Bare-Metal environment.
-  category: Semiconductor Hub
+  description: FMCW radar embedded validation in an Agile/Bare‑Metal environment.
 
-- company: Texas Instruments
+- company: Texas Instruments (Freising)
   role: Validation Expert
-  location: Freising, Germany
   duration: 2018 — 2020
-  description: Low-noise, dynamic validation for high-performance DCDC stages.
-  category: Semiconductor Hub
+  description: Low‑noise, dynamic validation for high‑performance DCDC stages.
 
-- company: Dialog Semiconductor
+- company: Dialog Semiconductor (Germering)
   role: Evaluation/Validation Engineer
-  location: Germering, Germany
   duration: 2018 — 2019
-  description: Mixed-Signal PMIC (Buck DCDC) evaluation on key milestones.
-  category: Semiconductor Hub
+  description: Mixed‑Signal PMIC (Buck DCDC) evaluation on key milestones.
 
-- company: Texas Instruments
+- company: Texas Instruments (Freising)
   role: Validation Engineer
-  location: Freising, Germany
   duration: 2014 — 2017
   description: Managed DCDC and PMIC validation cycles for production release.
-  category: Semiconductor Hub
 
-- company: Intel Mobile Communications
+- company: Intel Mobile Communications (Nürnberg)
   role: Senior Baseband Digital Design Engineer
-  location: Nürnberg, Germany
   duration: 2010 — 2014
   description: 2G/3G/4G platform design verification & FAE support.
-  category: Semiconductor Hub
 
-- company: Ericsson/ST
-  role: Consultant HW Engineer
-  location: Nürnberg, Germany
+- company: Ericsson/ST (Nürnberg)
+  role: Consultant HW
   duration: 2006 — 2009
-  description: Power systems on FPGA-based 3GPP development platforms; contributed to early 150 Mbit/s LTE phone demonstrators.
-  category: Semiconductor Hub
+  description: Power systems on FPGA‑based 3GPP development platforms; contributed to early Ericsson 150 Mbit/s LTE phone demonstrator.
 
-- company: Texas Instruments
+- company: Texas Instruments (Aalborg, Denmark)
   role: Baseband Engineer
-  location: Aalborg, Denmark
   duration: 2004 — 2005
   description: WTBU 2G and 3G platform validation.
-  category: Semiconductor Hub
 
-- company: Highways Agency / Various
-  role: UK Engineering Foundation
-  location: UK
+- company: UK Engineering Foundation (Highways Agency/Medical)
+  role: Design Authority & Lead Engineer
   duration: 1992 — 2003
-  description: Design Authority for M25 MIDAS infrastructure; Medical/Scientific electronics (ISO 13485); Mobile platform architecture at Psion/Sendo.
-  category: Engineering Foundation
+  description: M25 MIDAS infrastructure (TRG 1068); ISO 13485 medical diagnostics; Psion/Sendo ARM-based handhelds.
+
