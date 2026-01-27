@@ -41,6 +41,12 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 
 
 ## Interests & Capabilities
+* Batteries, Fuel Cells, Electrochemical Energy Systems & R&D
+* Electronic Systems Design & Validation
+* Semiconductor Test, Validation & Characterisation
+* Advanced Scientific & Medical Instrumentation
+* Data Science / Machine Learning Workflows
+
 
 ---
 
