@@ -27,17 +27,18 @@
   impact: "Automotive-grade SiC/IGBT gate driver validation and FMEDA."
   tags: ["SiC", "IGBT", "ISO 26262"]
 
-
+- client: "Infineon AG"
+  location: "Am Campeon"
+  role: "Post-Si Component Verification"
+  period: "2021-2022"
+  impact: "Automotive-grade SiC/IGBT gate driver validation and FMEDA."
+  tags: ["SiC", "IGBT", "ISO 26262"]
 - client: "Intel Mobile Communications"
   location: "Nuremberg"
   role: "Senior Baseband Digital Design Engineer"
   period: "2010-2014"
   impact: "2G/3G/4G platform design verification and FAE support."
-  tags:
-    - "Baseband"
-    - "4G/LTE"
-    - "SoC"
-
+  tags: ["Baseband", "4G/LTE", "SoC"]
 
 
 <div class="timeline">
