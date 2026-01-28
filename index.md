@@ -65,26 +65,29 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 
 ## ⏳ Professional Expertise: Semiconductor Hub
 
-<div class="experience-list">
+<div class="timeline">
   {% for job in site.data.experience %}
-  <details class="exp-card" style="border-bottom: 1px solid #eee; margin-bottom: 1.5rem; padding-bottom: 1rem;">
-    <summary style="cursor: pointer; font-weight: bold; list-style: none; display: flex; align-items: center; font-size: 1.15em; outline: none;">
-      <span style="color: #d35400; margin-right: 12px; transition: transform 0.2s;" class="icon-toggle">▸</span> 
-      {{ job.duration }} | {{ job.company }} — {{ job.role }}
-    </summary>
+  <details class="timeline-item" style="border-left: 2px solid #d35400; padding-left: 20px; margin-bottom: 20px; cursor: pointer;">
     
-    <div style="padding: 1rem 2rem; color: #444; line-height: 1.6; background: rgba(0,0,0,0.02); border-radius: 4px; margin-top: 10px;">
-      <p style="margin-top: 0; margin-bottom: 0.5rem;"><strong>Location:</strong> {{ job.location }}</p>
-      <p style="margin-bottom: 0;">{{ job.description }}</p>
+    <summary style="list-style: none; outline: none;">
+      <span style="font-family: monospace; color: #666;">{{ job.period }}</span>
+      <h3 style="display: inline-block; margin: 5px 0 0 10px;">
+        {{ job.client }} 
+        <small style="font-weight: normal; color: #888;">— {{ job.role }}</small>
+        <span style="font-size: 0.7em; color: #d35400; margin-left: 10px;">(Click to expand)</span>
+      </h3>
+    </summary>
+
+    <div style="margin-top: 15px; padding-bottom: 10px;">
+      <p><strong>Location:</strong> {{ job.location }}</p>
+      <p>{{ job.impact }}</p>
+      <div class="tags">
+        {% for tag in job.tags %}
+          <span class="tech-tag" style="background: #eee; padding: 2px 8px; font-size: 0.8em; border-radius: 3px; margin-right: 5px;">{{ tag }}</span>
+        {% endfor %}
+      </div>
     </div>
+
   </details>
   {% endfor %}
 </div>
-
-<style>
-  .experience-list summary::-webkit-details-marker { display: none; }
-  .experience-list summary { list-style: none; }
-  .experience-list summary:hover { color: #d35400; }
-  .exp-card[open] summary { color: #d35400; }
-  .exp-card[open] .icon-toggle { transform: rotate(90deg); display: inline-block; }
-</style>
