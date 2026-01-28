@@ -19,6 +19,11 @@ header:
 {: .notice--info}
 **The Summit View:** From the high-altitude perspective of an Architect, the goal is not just to see the circuit, but to understand the entire ecosystem. As the Ibex watches the valley, I oversee the intersection of hardware, software, and power to ensure architectural grace.
 
+<div style="float: right; margin-left: 20px; text-align: center;">
+  <img src="/assets/images/Gemini_Generated_Image_mofdbemofdbemofd.png" alt="The Goatherd" style="width: 250px; border-radius: 5px;">
+  <p style="font-style: italic; font-size: 0.8em; color: #666;">The Seasoned Presence</p>
+</div>
+
 > **Current Status:** {{ site.availability }}  
 > **Location:** {{ site.last_sighting }}
 
