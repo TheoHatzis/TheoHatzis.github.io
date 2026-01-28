@@ -72,25 +72,28 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 
 <div class="timeline">
   {% for job in site.data.experience %}
-  <details class="timeline-item" style="border-left: 2px solid #d35400; padding-left: 20px; margin-bottom: 20px; cursor: pointer;">
-    
-    <summary style="list-style: none; outline: none;">
-      <span style="font-family: monospace; color: #666;">{{ job.period }}</span>
-      <h3 style="display: inline-block; margin: 5px 0 0 10px;">
-        {{ job.client }} 
-        <small style="font-weight: normal; color: #888;">— {{ job.role }}</small>
-        <span style="font-size: 0.7em; color: #d35400; margin-left: 10px;">(Click to expand)</span>
-      </h3>
+  <details style="border-left: 3px solid #d35400; padding-left: 20px; margin-bottom: 20px;">
+    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em;">
+      {{ job.period }} | {{ job.client }} 
+      <span style="font-weight: normal; color: #888; font-size: 0.8em;"> — {{ job.role }}</span>
     </summary>
 
-    <div style="margin-top: 15px; padding-bottom: 10px;">
-      <p><strong>Location:</strong> {{ job.location }}</p>
+    <div style="padding: 15px 0 10px 20px;">
+      <p><em>Location: {{ job.location }}</em></p>
       <p>{{ job.impact }}</p>
-      <div class="tags">
-        {% for tag in job.tags %}
-          <span class="tech-tag" style="background: #eee; padding: 2px 8px; font-size: 0.8em; border-radius: 3px; margin-right: 5px;">{{ tag }}</span>
-        {% endfor %}
-      </div>
+
+      <details style="margin-top: 10px;">
+        <summary style="cursor: pointer; color: #d35400; font-size: 0.9em; font-weight: bold;">
+          View Technical Stack & Specializations
+        </summary>
+        <div class="tags" style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px;">
+          {% for tag in job.tags %}
+            <span class="tech-tag" style="background: #eee; padding: 4px 10px; font-size: 0.85em; border-radius: 4px; border: 1px solid #ccc;">
+              {{ tag }}
+            </span>
+          {% endfor %}
+        </div>
+      </details>
     </div>
 
   </details>
