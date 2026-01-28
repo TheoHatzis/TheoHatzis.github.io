@@ -1,71 +1,58 @@
-- company: Logiicdev GmbH (Remote, Graz)
-  role: Chief Adviser / CTO
-  duration: 2020 — 2025
-  location: Remote (Graz)
-  description: Led Horizon EU bids; Battery/Energy Systems, Post‑basic BMS, AI/ML & UAV HW. Mentored interns on AI/ML in battery projects. Supported product design with India‑based teams.
+- era: "Strategic Oversight & Advisory (The Ibex)"
+  jobs:
+    - company: "Logiicdev GmbH (Remote, Graz)"
+      role: "Chief Adviser / CTO"
+      duration: "2020 — 2025"
+      description: "Led Horizon EU bids; mentored interns on AI/ML in battery projects; guided UAV HW design."
+      leaves: ["Horizon EU Bids", "BMS", "AI/ML", "UAV HW", "Global Team Lead"]
 
-- company: Texas Instruments (Freising)
-  role: ISFET Characterisation Specialist
-  duration: 2023 — 2023
-  location: Freising, Germany
-  description: Setup of custom microfluidics MEMS wafer‑prober stations.
+- era: "Tier 1 Semiconductor Hub (The Goatherd)"
+  jobs:
+    - company: "Texas Instruments (Freising)"
+      role: "ISFET Characterisation Specialist"
+      duration: "2023 — 2023"
+      description: "Setup of custom microfluidics MEMS wafer‑prober stations."
+      leaves: ["MEMS", "Microfluidics", "Wafer-Prober", "ISFET"]
+    - company: "Renesas (ex‑Dialog), Germering"
+      role: "Contractor Mixed-Signal Specialist"
+      duration: "2022 — 2023"
+      description: "Validation & triage for high‑efficiency BOOST converters."
+      leaves: ["Mixed-Signal", "Boost Converters", "Silicon Triage"]
+    - company: "Infineon AG (Am Campeon)"
+      role: "Post‑Si Component Verification"
+      duration: "2021 — 2022"
+      description: "Automotive-grade SiC/IGBT gate driver & FMEDA."
+      leaves: ["SiC/IGBT", "ISO 26262", "FMEDA", "Gate Drivers"]
+    - company: "Infineon AG (Am Campeon)"
+      role: "Embedded T&V Engineer"
+      duration: "2020 — 2021"
+      description: "FMCW radar embedded validation in an Agile/Bare‑Metal environment."
+      leaves: ["FMCW Radar", "Bare-Metal", "Agile", "T&V"]
+    - company: "Texas Instruments (Freising)"
+      role: "Validation Expert"
+      duration: "2018 — 2020"
+      description: "Low‑noise, dynamic validation for high‑performance DCDC stages."
+      leaves: ["Low-Noise", "DCDC", "Dynamic Validation"]
+    - company: "Dialog Semiconductor (Germering)"
+      role: "Evaluation/Validation Engineer"
+      duration: "2018 — 2019"
+      description: "Mixed‑Signal PMIC (Buck DCDC) evaluation on key milestones."
+      leaves: ["PMIC", "Buck DCDC", "Milestone Eval"]
 
-- company: Renesas (ex‑Dialog), Germering
-  role: Contractor Mixed-Signal Specialist
-  duration: 2022 — 2023
-  location: Germering, Germany
-  description: Validation & triage for high‑efficiency BOOST converters.
-
-- company: Infineon AG (Am Campeon)
-  role: Post‑Si Component Verification
-  duration: 2021 — 2022
-  location: Automotive‑grade SiC/IGBT gate driver & FMEDA.
-
-- company: Infineon AG (Am Campeon)
-  role: Embedded T&V Engineer
-  duration: 2020 — 2021
-  location: Am Campeon, Munich
-  description: FMCW radar embedded validation in an Agile/Bare‑Metal environment.
-
-- company: Texas Instruments (Freising)
-  role: Validation Expert
-  duration: 2018 — 2020
-  location: Freising, Germany
-  description: Low‑noise, dynamic validation for high‑performance DCDC stages.
-
-- company: Dialog Semiconductor (Germering)
-  role: Evaluation/Validation Engineer
-  duration: 2018 — 2019
-  location: Germering, Germany
-  description: Mixed‑Signal PMIC (Buck DCDC) evaluation on key milestones.
-
-- company: Texas Instruments (Freising)
-  role: Validation Engineer
-  duration: 2014 — 2017
-  location: Freising, Germany
-  description: Managed DCDC and PMIC validation cycles for production release.
-
-- company: Intel Mobile Communications (Nürnberg)
-  role: Senior Baseband Digital Design Engineer
-  duration: 2010 — 2014
-  location: Nürnberg, Germany
-  description: 2G/3G/4G platform design verification & FAE support.
-
-- company: Ericsson/ST (Nürnberg)
-  role: Consultant HW
-  duration: 2006 — 2009
-  location: Nürnberg, Germany
-  description: Power systems on FPGA‑based 3GPP development platforms; 3‑phase core supplies and ideal‑diode OR‑ing.
-
-- company: Texas Instruments (Aalborg, Denmark)
-  role: Baseband Engineer
-  duration: 2004 — 2005
-  location: Aalborg, Denmark
-  description: WTBU 2G and 3G platform validation.
-
-- company: UK Engineering Foundation
-  role: Design Authority & Lead Engineer
-  duration: 1992 — 2003
-  location: UK
-  description: M25 MIDAS infrastructure (TRG 1068); ISO 13485 medical diagnostics; Psion/Sendo ARM-based handhelds.
-
+- era: "Baseband & Foundation Engineering (The Fuchs)"
+  jobs:
+    - company: "Intel Mobile Communications (Nürnberg)"
+      role: "Senior Baseband Digital Design Engineer"
+      duration: "2010 — 2014"
+      description: "2G/3G/4G platform design verification & FAE support."
+      leaves: ["4G/LTE", "SoC", "FAE Support", "Verification"]
+    - company: "Ericsson/ST (Nürnberg)"
+      role: "Consultant HW"
+      duration: "2006 — 2009"
+      description: "Power systems on FPGA-based platforms; 3-phase core supplies and ideal-diode OR-ing."
+      leaves: ["FPGA", "3-Phase Power", "Ideal-Diode", "3GPP"]
+    - company: "UK Engineering Foundation"
+      role: "Design Authority & Lead Engineer"
+      duration: "1992 — 2003"
+      description: "M25 MIDAS infrastructure; ISO 13485 medical diagnostics; ARM-based handhelds."
+      leaves: ["Design Authority", "ISO 13485", "MIDAS", "ARM Architecture"]

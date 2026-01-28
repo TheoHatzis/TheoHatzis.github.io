@@ -70,31 +70,37 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
 
 ## ⏳ Professional Expertise: Semiconductor Hub
 
-<div class="timeline">
-  {% for job in site.data.experience %}
-  <details style="border-left: 3px solid #d35400; padding-left: 20px; margin-bottom: 20px;">
-    <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em;">
-      {{ job.period }} | {{ job.client }} 
-      <span style="font-weight: normal; color: #888; font-size: 0.8em;"> — {{ job.role }}</span>
+<div class="trinity-timeline">
+  {% for era_group in site.data.experience %}
+  <details class="era-layer" style="margin-bottom: 25px; border-left: 6px solid #d35400; padding-left: 15px;">
+    <summary style="font-weight: bold; font-size: 1.5em; cursor: pointer; color: #1a1a1a;">
+      {{ era_group.era }}
     </summary>
 
-    <div style="padding: 15px 0 10px 20px;">
-      <p><em>Location: {{ job.location }}</em></p>
-      <p>{{ job.impact }}</p>
+    {% for job in era_group.jobs %}
+    <details class="job-layer" style="margin: 15px 0 15px 30px; border-left: 2px solid #aaa; padding-left: 15px;">
+      <summary style="cursor: pointer; font-size: 1.1em; font-weight: 500;">
+        {{ job.duration }} | <strong>{{ job.company }}</strong> — {{ job.role }}
+      </summary>
+      
+      <div style="padding: 10px 0;">
+        <p style="margin-bottom: 10px;">{{ job.description }}</p>
 
-      <details style="margin-top: 10px;">
-        <summary style="cursor: pointer; color: #d35400; font-size: 0.9em; font-weight: bold;">
-          View Technical Stack & Specializations
-        </summary>
-        <div class="tags" style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px;">
-          {% for tag in job.tags %}
-            <span class="tech-tag" style="background: #eee; padding: 4px 10px; font-size: 0.85em; border-radius: 4px; border: 1px solid #ccc;">
-              {{ tag }}
+        <details class="leaf-layer">
+          <summary style="cursor: pointer; color: #d35400; font-size: 0.85em; font-weight: bold;">
+            ▼ Reveal Technical Coalface (The Fuchs)
+          </summary>
+          <div style="margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px;">
+            {% for leaf in job.leaves %}
+            <span style="background: #efefef; border: 1px solid #ccc; padding: 2px 10px; border-radius: 4px; font-size: 0.8em; font-family: monospace;">
+              {{ leaf }}
             </span>
-          {% endfor %}
-        </div>
-      </details>
-    </div>
+            {% endfor %}
+          </div>
+        </details>
+      </div>
+    </details>
+    {% endfor %}
 
   </details>
   {% endfor %}
