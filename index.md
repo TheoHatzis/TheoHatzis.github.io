@@ -105,3 +105,4 @@ During my time at Ericsson in Nürnberg, I earned the nickname **“Der Fuchs”
   </details>
   {% endfor %}
 </div>
+
