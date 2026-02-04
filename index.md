@@ -71,3 +71,11 @@ header:
   {% endfor %}
 </div>
 
+
+🌍
+Endnote
+The moniker “Der Fuchs” originates from my time contracting at Ericsson (later as ST Ericsson) located in Franconia
+Germany. It reflects the German idiom **“Der Fuchs findet den Fehler, den keiner sieht” — the fox finds the
+flaw no one else sees [our clever fox]. — a recognition of my diagnostic intuition and ability to resolve elusive
+system-level issues. I remained with the programme for four years — unusually long for a contractor — reflecting the trust
+and reliance the team placed in my designs and diagnostic wor
