@@ -1,19 +1,11 @@
 ---
-# Front matter is required for Jekyll to process Sass
+# Empty YAML block is required for Jekyll to process this file
 ---
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
 @import "minimal-mistakes"; 
 
----
-# This front matter must stay at the very top
----
-
-/* 1. THE THEME CORE (Do not delete these) */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
-@import "minimal-mistakes"; 
-
-/* 2. THE LAYOUT OVERRIDES (The code that made the valley wide) */
+/* 1. Layout: Keeping the valley wide */
 .wrapper, #main, .initial-content, .masthead__inner-wrap, .footer__inner {
   max-width: 96% !important;
   width: 96% !important;
@@ -28,35 +20,39 @@
   width: 100% !important;
 }
 
-/* 3. THE NAVIGATION FIX (The code for the hamburger/Android fix) */
-@media (max-width: 64em) {
-  .greedy-nav .greedy-nav__toggle {
-    display: flex !important;
-    visibility: visible !important;
-    position: relative !important;
-    z-index: 101 !important;
-  }
-
-  .greedy-nav .hidden-links.visible {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    position: absolute;
-    top: 100%;
-    right: 0;
-    width: 250px;
-    background: #fff; 
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-    padding: 1rem;
-  }
-
-  .greedy-nav .visible-links {
-    display: none !important;
-  }
+/* 2. The Hamburger Toggle: Force visibility on PC and Mobile */
+.greedy-nav .greedy-nav__toggle {
+  display: flex !important;
+  visibility: visible !important;
+  z-index: 110 !important; /* Stay above the 'faded' overlay */
 }
 
+/* 3. FIX: The "Faded" Page / Missing Links */
+/* This ensures that when you click the hamburger, the links actually appear */
+.greedy-nav .hidden-links {
+  background: #f2eee3 !important; /* Solid beige to match your site */
+  position: absolute !important;
+  top: 100% !important;
+  right: 0 !important;
+  width: 250px !important;
+  padding: 20px !important;
+  border: 1px solid #ccc !important;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2) !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Only show the hidden-links when the 'visible' class is active (after click) */
+.greedy-nav .hidden-links:not(.visible) {
+  display: none !important;
+}
+
+.greedy-nav .hidden-links.visible {
+  display: block !important;
+  z-index: 120 !important;
+}
+
+/* 4. Fix Nav Icon visibility */
 .navicon, .navicon::before, .navicon::after {
   background-color: #333 !important;
-  display: block !important;
-  visibility: visible !important;
 }
