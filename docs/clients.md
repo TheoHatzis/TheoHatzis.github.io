@@ -4,13 +4,13 @@ layout: single
 permalink: /docs/clients/
 ---
 
-The following organizations represent the landscape of my recent engagements:
-
+<div class="grid-container">
 {% for client in site.data.clients %}
-  ### {{ client.name }}
-  **Sector:** {{ client.sector }}
-  
-  {{ client.description }}
-
-  ---
+  <div class="grid-item">
+    ### {{ client.name }}
+    **Sector:** {{ client.sector }}
+    
+    {{ client.description }}
+  </div>
 {% endfor %}
+</div>
