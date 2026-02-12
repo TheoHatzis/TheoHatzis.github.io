@@ -5,12 +5,12 @@ permalink: /docs/experience/
 ---
 
 <div class="grid-container">
-{% for client in site.data.experience %}
+{% for item in site.data.experience %}
   <div class="grid-item">
-    ### {{ client.name }}
-    **Experience:** {{ client.sector }}
+    ### {{ item.name }}
+    **Sector:** {{ item.sector }}
     
-    {{ client.description }}
+    {{ item.description }}
   </div>
 {% endfor %}
 </div>
