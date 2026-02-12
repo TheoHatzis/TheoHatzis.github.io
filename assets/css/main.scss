@@ -56,3 +56,33 @@
   align-items: center;
   justify-content: space-between;
 }
+
+/* Force the hamburger to appear when the screen is small enough to hide the sidebar */
+@media (max-width: 64em) {
+  .greedy-nav .greedy-nav__toggle {
+    display: flex !important; /* Forces the button layout */
+    visibility: visible !important; /* Overcomes any 'hidden' logic */
+    position: relative !important;
+    float: right;
+  }
+
+  /* Ensure the navigation container doesn't collapse to zero height */
+  .greedy-nav {
+    min-height: 50px;
+  }
+
+  /* Make sure the text links don't try to overlap the hamburger */
+  .greedy-nav .visible-links {
+    display: none !important;
+  }
+}
+
+/* Ensure the 'bars' icon inside the button has a color that isn't invisible */
+.navicon {
+  background: #333 !important; /* Or whatever color contrasts your background */
+}
+
+.navicon::before,
+.navicon::after {
+  background: #333 !important;
+}
