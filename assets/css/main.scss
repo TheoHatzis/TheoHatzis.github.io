@@ -1,5 +1,5 @@
 ---
-# Empty YAML block is required for Jekyll to process this file
+# YAML block remains for Jekyll processing
 ---
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
@@ -13,46 +13,68 @@
   margin-right: auto !important;
 }
 
-.layout--home .page__inner-wrap,
-.layout--archive .page__inner-wrap,
-.layout--single .page__inner-wrap {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* 2. The Hamburger Toggle: Force visibility on PC and Mobile */
+/* 2. The Hamburger Toggle: Fix the "Thin Line" and Force Visibility */
 .greedy-nav .greedy-nav__toggle {
   display: flex !important;
   visibility: visible !important;
-  z-index: 110 !important; /* Stay above the 'faded' overlay */
+  z-index: 110 !important;
+  height: 2rem;
+  align-items: center;
+  background: transparent;
+  border: 0;
 }
 
-/* 3. FIX: The "Faded" Page / Missing Links */
-/* This ensures that when you click the hamburger, the links actually appear */
-.greedy-nav .hidden-links {
-  background: #f2eee3 !important; /* Solid beige to match your site */
+/* Re-shaping the three bars (The Navicon) */
+.navicon {
+  position: relative;
+  width: 1.5rem !important;
+  height: 0.2rem !important; /* Middle bar */
+  background: #333 !important;
+  display: block !important;
+}
+
+.navicon::before, .navicon::after {
+  content: "" !important;
+  display: block !important;
+  position: absolute !important;
+  width: 1.5rem !important;
+  height: 0.2rem !important;
+  background: #333 !important;
+}
+
+.navicon::before { top: -0.5rem !important; } 
+.navicon::after { bottom: -0.5rem !important; } 
+
+/* 3. FIX: Kill the "Faded" effect and force link visibility */
+/* This targets the container that pops up when you click the hamburger */
+.greedy-nav .hidden-links.visible {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important; 
+  z-index: 120 !important;
+  background: #f2eee3 !important; /* Solid beige background */
   position: absolute !important;
   top: 100% !important;
   right: 0 !important;
   width: 250px !important;
-  padding: 20px !important;
-  border: 1px solid #ccc !important;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.2) !important;
+  padding: 1.5rem !important;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3) !important;
+}
+
+/* Ensure the list items inside are not faded */
+.greedy-nav .hidden-links.visible ul, 
+.greedy-nav .hidden-links.visible li, 
+.greedy-nav .hidden-links.visible a {
   opacity: 1 !important;
   visibility: visible !important;
-}
-
-/* Only show the hidden-links when the 'visible' class is active (after click) */
-.greedy-nav .hidden-links:not(.visible) {
-  display: none !important;
-}
-
-.greedy-nav .hidden-links.visible {
+  color: #333 !important;
   display: block !important;
-  z-index: 120 !important;
+  padding: 5px 0;
 }
 
-/* 4. Fix Nav Icon visibility */
-.navicon, .navicon::before, .navicon::after {
-  background-color: #333 !important;
+/* 4. Ensure the main header links don't ghost around on mobile */
+@media (max-width: 64em) {
+  .greedy-nav .visible-links {
+    display: none !important;
+  }
 }
