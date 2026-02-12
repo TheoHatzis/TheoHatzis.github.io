@@ -11,3 +11,24 @@
 #main {
   max-width: 100%;
 }
+
+
+/* Target the primary wrapper used by Minimal Mistakes */
+.wrapper {
+  max-width: 95% !important; /* Forces the box to expand to the screen edges */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Specifically ensures the content + sidebar container fills that space */
+#main {
+  max-width: 100% !important;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/* Adjusts the header/navigation to match the new width */
+.masthead .inner, 
+.footer__inner {
+  max-width: 95% !important;
+}
