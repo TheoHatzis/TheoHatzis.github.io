@@ -1,0 +1,13 @@
+/* Expand the main container to fill the screen */
+.masthead .inner, 
+.initial-content, 
+.footer__inner {
+  max-width: 95% !important; /* Default is usually around 1280px */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Ensure the sidebar and content area scale together */
+#main {
+  max-width: 100%;
+}
