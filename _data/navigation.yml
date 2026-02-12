@@ -1,19 +1,12 @@
 main:
   - title: "Home"
     url: "/"
-
   - title: "Technical-Grid"
     url: "/docs/technical-grid"
-
   - title: "CV"
     url: "THEO HATZIS CV.pdf"
-
   - title: "LinkedIn"
     url: "https://www.linkedin.com/in/theo-hatzis"
-
-
-    # - title: "Expertise"          <-- This is now inactive
-    #   url: "/docs/expertise/"    <-- and won't show in the topbar
-
-    # - title: "Technical Matrix"
-    #   url: "/docs/myfile3/"
+  # Add these so the Fuchs can find them in the hamburger menu
+  - title: "Expertise"
+    url: "/docs/expertise/"
