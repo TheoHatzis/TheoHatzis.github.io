@@ -2,11 +2,10 @@ main:
   - title: "Home"
     url: "/"
   - title: "Technical-Grid"
-    url: "/docs/technical-grid"
-  - title: "CV"
-    url: "THEO HATZIS CV.pdf"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/theo-hatzis"
-  # Add these so the Fuchs can find them in the hamburger menu
+    url: "/docs/technical-grid/"
   - title: "Expertise"
-    url: "/docs/expertise/"
+    url: "/docs/experience/"  # Match the 'experience' filename seen in your folder
+  - title: "Clients"
+    url: "/docs/clients/"     # Match the 'clients' filename seen in your folder
+  - title: "CV"
+    url: "/assets/THEO HATZIS CV.pdf"
