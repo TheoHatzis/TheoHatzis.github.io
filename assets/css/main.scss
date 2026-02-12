@@ -34,3 +34,25 @@
     padding-right: 0 !important;
   }
 }
+
+/* --- MOBILE MENU FIX --- */
+
+/* Force the 'three-bar' hamburger toggle to be visible */
+.greedy-nav__toggle {
+  display: block !important;
+  background-color: #333 !important; /* Makes the button dark so it stands out */
+  padding: 0.5em !important;
+  z-index: 99 !important;
+}
+
+/* Ensure the bars inside the button are white/visible */
+.greedy-nav__toggle .navigation__icon {
+  background-color: #fff !important;
+}
+
+/* Ensure the navigation doesn't overlap the logo/title on small screens */
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
