@@ -32,3 +32,25 @@
 .footer__inner {
   max-width: 95% !important;
 }
+
+
+/* 1. Force the outer container to expand */
+#main, .wrapper, .initial-content {
+  max-width: 98% !important;
+  width: 98% !important;
+  margin: 0 auto !important;
+}
+
+/* 2. Target the specific grid container for the "home" and "archive" layouts */
+.layout--home .page__inner-wrap,
+.layout--archive .page__inner-wrap,
+.layout--single .page__inner-wrap {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* 3. Ensure the masthead (header) matches the new width */
+.masthead__inner-wrap {
+  max-width: 98% !important;
+  margin: 0 auto !important;
+}
