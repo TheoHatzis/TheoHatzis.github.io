@@ -5,9 +5,15 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
 @import "minimal-mistakes"; 
 
-/* --- CUSTOM OVERRIDES --- */
+---
+# This front matter must stay at the very top
+---
 
-/* 1. Force the outer container to expand to the screen edges */
+/* 1. THE THEME CORE (Do not delete these) */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes"; 
+
+/* 2. THE LAYOUT OVERRIDES (The code that made the valley wide) */
 .wrapper, #main, .initial-content, .masthead__inner-wrap, .footer__inner {
   max-width: 96% !important;
   width: 96% !important;
@@ -15,70 +21,42 @@
   margin-right: auto !important;
 }
 
-/* 2. Target the page content inside the grid so it doesn't stay narrow */
 .layout--home .page__inner-wrap,
 .layout--archive .page__inner-wrap,
-.layout--single .page__inner-wrap,
-.layout--splash .page__inner-wrap {
+.layout--single .page__inner-wrap {
   max-width: 100% !important;
   width: 100% !important;
 }
 
-/* 3. Ensure the Ibex (sidebar) and Fuchs (content) take up the newly available room */
-@media (min-width: 64em) {
-  .sidebar {
-    width: 20% !important;
-  }
-  .archive, .page {
-    width: 78% !important;
-    padding-right: 0 !important;
-  }
-}
-/* --- THE FINAL IBEX MENU FIX --- */
-
-/* 1. Ensure the toggle is visible and clickable on all small/medium screens */
-.greedy-nav .greedy-nav__toggle {
-  display: flex !important;
-  visibility: visible !important;
-  z-index: 100 !important;
-  border: 0;
-  background: transparent;
-  cursor: pointer;
-}
-
-/* 2. Fix the "Greyed Out / Empty" menu issue */
-/* This forces the hidden links to actually show when the menu is toggled 'visible' */
-.greedy-nav .hidden-links.visible {
-  display: block !important;
-  visibility: visible !important;
-  position: absolute;
-  top: 100%;
-  right: 0;
-  width: 200px; /* Give it a fixed width so it doesn't stay narrow */
-  background-color: #fff; /* Match your site's secondary color */
-  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
-  z-index: 101;
-}
-
-/* 3. Ensure the icon inside isn't invisible */
-.navicon {
-  background: #333 !important; /* Dark grey bars */
-  height: 0.125rem;
-  width: 1.25rem;
-}
-
-.navicon::before,
-.navicon::after {
-  background: #333 !important;
-  width: 1.25rem;
-}
-
-/* 4. Desktop cleanup: If screen is wide, hide the toggle and show links */
-@media (min-width: 80em) {
+/* 3. THE NAVIGATION FIX (The code for the hamburger/Android fix) */
+@media (max-width: 64em) {
   .greedy-nav .greedy-nav__toggle {
+    display: flex !important;
+    visibility: visible !important;
+    position: relative !important;
+    z-index: 101 !important;
+  }
+
+  .greedy-nav .hidden-links.visible {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 250px;
+    background: #fff; 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    padding: 1rem;
+  }
+
+  .greedy-nav .visible-links {
     display: none !important;
   }
-  .greedy-nav .visible-links {
-    display: flex !important;
-  }
+}
+
+.navicon, .navicon::before, .navicon::after {
+  background-color: #333 !important;
+  display: block !important;
+  visibility: visible !important;
 }
