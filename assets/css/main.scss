@@ -1,56 +1,36 @@
-/* Expand the main container to fill the screen */
-.masthead .inner, 
-.initial-content, 
-.footer__inner {
-  max-width: 95% !important; /* Default is usually around 1280px */
-  margin-left: auto;
-  margin-right: auto;
+---
+# Front matter is required for Jekyll to process Sass
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; 
+@import "minimal-mistakes"; 
+
+/* --- CUSTOM OVERRIDES --- */
+
+/* 1. Force the outer container to expand to the screen edges */
+.wrapper, #main, .initial-content, .masthead__inner-wrap, .footer__inner {
+  max-width: 96% !important;
+  width: 96% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-/* Ensure the sidebar and content area scale together */
-#main {
-  max-width: 100%;
-}
-
-
-/* Target the primary wrapper used by Minimal Mistakes */
-.wrapper {
-  max-width: 95% !important; /* Forces the box to expand to the screen edges */
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Specifically ensures the content + sidebar container fills that space */
-#main {
-  max-width: 100% !important;
-  padding-left: 1em;
-  padding-right: 1em;
-}
-
-/* Adjusts the header/navigation to match the new width */
-.masthead .inner, 
-.footer__inner {
-  max-width: 95% !important;
-}
-
-
-/* 1. Force the outer container to expand */
-#main, .wrapper, .initial-content {
-  max-width: 98% !important;
-  width: 98% !important;
-  margin: 0 auto !important;
-}
-
-/* 2. Target the specific grid container for the "home" and "archive" layouts */
+/* 2. Target the page content inside the grid so it doesn't stay narrow */
 .layout--home .page__inner-wrap,
 .layout--archive .page__inner-wrap,
-.layout--single .page__inner-wrap {
+.layout--single .page__inner-wrap,
+.layout--splash .page__inner-wrap {
   max-width: 100% !important;
   width: 100% !important;
 }
 
-/* 3. Ensure the masthead (header) matches the new width */
-.masthead__inner-wrap {
-  max-width: 98% !important;
-  margin: 0 auto !important;
+/* 3. Ensure the Ibex (sidebar) and Fuchs (content) take up the newly available room */
+@media (min-width: 64em) {
+  .sidebar {
+    width: 20% !important;
+  }
+  .archive, .page {
+    width: 78% !important;
+    padding-right: 0 !important;
+  }
 }
