@@ -1,4 +1,10 @@
 ---
+layout: default
+title: Services
+permalink: /services/
+
+
+
 date created: Thursday, May 28th 2026, 9:37:52 pm
 date modified: Saturday, May 30th 2026, 10:27:57 pm
 tags:
