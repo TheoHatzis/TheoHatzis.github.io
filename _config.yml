@@ -5,7 +5,8 @@ plugins:
   - jekyll-include-cache
 url: "https://TheoHatzis.github.io"
 baseurl: ""
-include: ["_data", "assets"]
+include: ["_data", "assets", "_includes"]
+
 title: "Goat Mountain Semiconductor"
 
 
