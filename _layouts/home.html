@@ -1,19 +1,30 @@
-<section class="client-grid">
-  <h3>The Fuchs' Track Record</h3>
-  <div class="grid-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; align-items: center;">
-    {% for client in site.data.clients %}
-      <div class="client-logo" style="text-align: center;">
-        <strong style="color: #555; font-family: monospace;">{{ client.name }}</strong>
-      </div>
-    {% endfor %}
-  </div>
-</section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  {% if page.image %}
+    <meta property="og:image" content="{{ page.image | relative_url }}">
+    <meta name="twitter:image" content="{{ page.image | relative_url }}">
+  {% endif %}
 
+  <!-- any other meta, title, CSS links, etc -->
+</head>
 
+<body>
 
-// AI to check integration. Note my file in _layouts is called home.html 
-{% if page.image %}
-<meta property="og:image" content="{{ page.image | relative_url }}">
-<meta name="twitter:image" content="{{ page.image | relative_url }}">
-{% endi
+  <!-- your existing content -->
+  <section class="client-grid">
+    <h3>The Fuchs' Track Record</h3>
+    <div class="grid-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; align-items: center;">
+      {% for client in site.data.clients %}
+        <div class="client-logo" style="text-align: center;">
+          <strong style="color: #555; font-family: monospace;">{{ client.name }}</strong>
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+
+</body>
+</html>
