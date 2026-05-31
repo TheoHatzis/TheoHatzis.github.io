@@ -8,3 +8,12 @@
     {% endfor %}
   </div>
 </section>
+
+
+
+
+// AI to check integration. Note my file in _layouts is called home.html 
+{% if page.image %}
+<meta property="og:image" content="{{ page.image | relative_url }}">
+<meta name="twitter:image" content="{{ page.image | relative_url }}">
+{% endi
