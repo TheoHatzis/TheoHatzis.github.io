@@ -1,7 +1,7 @@
 ---
 date created: Friday, July 24th 2026, 9:19:33 am
 date modified: Friday, July 24th 2026, 9:44:48 am
-layout: default
+layout: none
 ---
 
 |**Domain**|**Specialist Deliverables**|**Strategic Value to Client Teams**|
